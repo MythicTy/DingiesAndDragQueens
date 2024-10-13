@@ -11,7 +11,7 @@ Generally consists of entropists, soldiers, and weaponsmiths.
 ## Notable Members
 - Kazaan
 - [[Doomlord Abraxis]]
-- [[Aslan Ashfang]], who gave a quest to Bawk and aided your group out of boredom
+- [[Aslan Ashfang]], who gave a quest to [[Bawk]] and aided your group out of boredom
 - [[Sirus, Kazaan's Advisor]]
 # Epithet
 The Doomguard are colloquially referred to as the Sinkers.

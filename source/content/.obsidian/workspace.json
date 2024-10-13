@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sigil",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md"
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md"
               }
             }
           }
@@ -151,32 +150,33 @@
   },
   "active": "db49a79a3cc595ea",
   "lastOpenFiles": [
-    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Doomguard/Sirus, Kazaan's Advisor.md",
+    "Turn of Fortune's Wheel/Public/Characters/PCs/Augh'er.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Society of Sensation.md",
     "Turn of Fortune's Wheel/Public/Session Recaps/Session 2 - Unrecorded Date.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Records.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/Felicity's Threads.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Doomguard.md",
+    "Turn of Fortune's Wheel/Public/Dream Sequences/2. Bawk's Weapon Dream.md",
+    "Turn of Fortune's Wheel/Public/Characters/PCs/Uthal.md",
+    "Turn of Fortune's Wheel/Public/Characters/PCs/Thistle.md",
+    "Turn of Fortune's Wheel/Public/Characters/PCs/Kazaan.md",
+    "Turn of Fortune's Wheel/Public/Characters/PCs/Bawk.md",
+    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Uthal's Deaths.md",
+    "Turn of Fortune's Wheel/Public/Characters/PCs",
+    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Thistle's Deaths.md",
+    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Kazaan's Deaths.md",
+    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Bawk's Deaths.md",
+    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Augh'er's Deaths.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
+    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Doomguard/Sirus, Kazaan's Advisor.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Mercykillers.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Heralds of Dust.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Harmonium.md",
     "Turn of Fortune's Wheel/Public/Characters/Felik.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Fated.md",
     "Turn of Fortune's Wheel/Public/Characters/Faction Members/Doomguard/Doomlord Abraxis.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Doomguard.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Bleak Cabal.md",
-    "Turn of Fortune's Wheel/Public/Session Recaps/Recap Table.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Bloody Glitches.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Asmodeus Needs You!.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/A Mercykiller and a Petitioner.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/4. Sire Oliver and the Rats.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/3. Kazaan's Advisor.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/2. Twisted Tea Party.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/1. Stuffed Rat.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Undersigil.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/Institute of Intellectual Excellence.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/The Great Bazaar.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/Felicity's Threads.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/A Major Issue.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
     "Turn of Fortune's Wheel/Public/Characters/Sigil",
     "Turn of Fortune's Wheel/Public/Characters/Faction Members",
     "ToFW/Private/Untitled.canvas",
@@ -193,7 +193,6 @@
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward",
     "Turn of Fortune's Wheel/Images/00-01%20Sigil%20Map.jpg",
     "Turn of Fortune's Wheel/Images",
-    "ToFW/Public/Images",
     "Turn of Fortune's Wheel/Images/01-02%20Parisa%20the%20Tout.png"
   ]
 }

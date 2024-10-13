@@ -1,1 +1,1 @@
-You visited the Civic Festhall, their headquarters, to execute Bawk for money. You didn't learn much about the faction.
+You visited the Civic Festhall, their headquarters, to execute [[Bawk]] for money. You didn't learn much about the faction.
