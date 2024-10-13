@@ -1,0 +1,1 @@
+You haven't encountered this faction yet.

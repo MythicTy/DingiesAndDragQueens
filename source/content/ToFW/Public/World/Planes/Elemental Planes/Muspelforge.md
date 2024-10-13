@@ -1,0 +1,1 @@
+A Faction Citadel to the Doomguard. Previously headed by Kazaan, now by Doomlord Abraxis.

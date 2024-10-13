@@ -1,0 +1,12 @@
+- Went to sleep in the Ubiquitous Wayfarer, where you had weird dreams of cages, and being trapped
+- You visited the hall of information, seeing posters for a Rogue Modron accountant, Doomguard hiring posters, and conscientious objectors to the blood war, among others
+- Happened across a demon and a devil locked in brutal combat, only for them to glitch out of existence
+- Visited the great bazaar, where you purchased a bag of withholding, and sold some of your goods
+- You met Major Nirra Killar (forgot to name her last session) from Rigus, bringing her troops on shore leave to purchase weaponry. She recognised Uthal, and commented that she said she'd run him and his buddies through if they ever crossed paths again. After some de-escalation, she offered him a grey pass to Rigus
+- Bawk came across Felicity's Threads, who thanked him for gathering information on a rival clothes company, who she had set on fire. He also gained a nice new hat.
+- You met Clocksworth, a lone modron who was separated from the great modron march after it left earlier than it was meant to.
+- You visited the Civic Festhall, where you filled a sensory stone for a Sensate Muse and also encounted Sire Oliver the Twisted for the first time.
+- You performed public execution of Bawk at the Festhall, in order to raise funds.
+- You then travelled to visit Enoll Eva, coming in during her talk about how the thought of many may shape the multiverse. She apologised as she did know how to aid you, but said that she would do some research and get back to you. You also learned that the modron march left specifically 189 years early.
+- Whilst travelling to the Armoury, you were accosted by a devil, wanting to contract you into the blood war, and bragging about the new shipment of Doomguard weaponry they'd received. The guy would just not take no for an answer, resulting in an encounter to get the contracts for your souls back. So far only Bawk has destroyed his. Who knows what will happen if the rest of you die whilst under contract?
+- And finally, you arrived at the Armoury. After talking with the Efreeti, Aslang Ashfang, thing quickly turn sour as the Doomlord Abraxis marches out from the portal to one of the 4 faction citadels to confront Kazaan, with an entourage of armed guards behind and around him, which is where we pick up.

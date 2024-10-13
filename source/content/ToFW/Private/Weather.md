@@ -1,0 +1,13 @@
+
+| d10 |                          |                                                                                                                                                                                      |
+| --- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Clear!                   | The weather is surprisingly clear! No effects.                                                                                                                                       |
+| 2   | Thunderstorm.            | The air is dry, despite the torrential downpour. At initiative 20, each must make a DC 12 Dex Save or take 1d10 Lightning damage.  <br>Creatures are vulnerable to Lightning damage. |
+| 3   | Freezing Winds.          | The air is freezing cold. DC 15 Con save at the start of the day or have 5 feet less movement.  <br>Creatures are vulnerable to Cold damage.                                         |
+| 4   | Dreamer's Night.         | The day is calm, and the night comes quickly. The party feel tired, and are guaranteed a dream sequence that night.  <br>Creatures are vulnerable to Force damage.                   |
+| 5   | Faerie Folk.             | The fey and faeries are out in bulk this day. A pixie torments the party.  <br>Creatures are vulnerable to Psychic damage.                                                           |
+| 6   | Torrential Downpour.     | The sky opens and releases an ocean's worth of water. Creatures have advantage on stealth due to the mist.  <br>Creatures are vulnerable to Bludgeoning damage.                      |
+| 7   | Heatwave.                | The weather is scorching hot. Athletic checks have disadvantage, and Nat 1s cause a level of Exhaustion and 5 fire damage.  <br>Creatures are vulnerable to Fire damage.             |
+| 8   | Aurorae Borealis.        | The day is calm. PCs start the day with inspiration. Night comes quickly, with an Aurorae Borealis.  <br>Creatures are vulnerable to Radiant damage.                                 |
+| 9   | Night Forgets To Arrive. | Night just doesn't happen. The party can't long rest this night due to the brightness of the sky.  <br>Additionally, roll again. That effect persists for the two days.              |
+| 10  | Double Trouble.          | Roll twice. Both are active at the same time.                                                                                                                                        |

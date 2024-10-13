@@ -1,0 +1,1 @@
+You met Pugdug, a kind eyed orc, in the streets of the Hive Ward. He offered to heal you all, asking only that you pay the deed forward. In doing so, he noticed that the party seemed afflicted somehow, and asked if you were all okay. After divulging the Glitch to him, he invited you back to the [[Gatehouse]] to meet [[Althax Darkfleece]], an expert on this sorta stuff.

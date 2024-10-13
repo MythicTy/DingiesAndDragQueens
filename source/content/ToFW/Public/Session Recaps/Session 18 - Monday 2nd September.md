@@ -1,0 +1,3 @@
+Last session was the session where you finally finished the Xorn questline. You had discovered from the letters that Erasimus had been sponsored by someone, gifting him the compass gems that were used to guide the Xorn. He was directing the Xorn to attack the Mint as a way of forcing MPs out of parliament by crippling the economy, whilst he was fine due to his private vault. You interrogated him as he had returned to Tradegate and forced him to confess. He also confessed that the Scrying Eye that was watching you wasn't his. This encouraged Kazaan to circle the walking castle where you found another invisible Scrying Eye.
+
+You now have free access to Tradegate to shop and trade, with the exception of Thistle and Kazaan who are still wanted.

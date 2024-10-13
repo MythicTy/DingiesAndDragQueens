@@ -1,0 +1,5 @@
+You spent the session uncovering the plot of Sincerity and Uncle Longteeth to kidnap people and turn them into soul larvae. Sincerity had been trapping people in bottle and giving the bottles to her sunflies, who flew them to Uncle Longteeth's cabin. He would then package them up and send them to Mistress Margrice, the hag you killed previously, to turn into soul larvae. You thwarted the plan, rescued the kidnapped people, and were paid 2500gp and were given a Lantern of Revealing.
+
+Whilst you were doing this, Thistle was having a nightmare in the bathroom. Passersby could hear ungodly clanging and grinding. He somehow managed to explode the toilet, and was taken to the mechanic to be repaired.
+
+After you were finished in Excelsior, you left, bound for Tradegate. In transit, Mawk the Soul Larva transformed, developing a Mawk-hensile jaw and horns. We pick back up aboard Iedcaru, in the wake of this transformation.

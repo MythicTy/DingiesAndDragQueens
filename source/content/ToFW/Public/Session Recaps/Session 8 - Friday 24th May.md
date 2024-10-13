@@ -1,0 +1,11 @@
+You started the session by arriving at automata in the evening. After a brief stint of exploration and bartering, the city ground to a halt as a glitching modron march cut off many major roads in the city. Marching among them, was Missile, a 4th variant of Thistle.
+
+Whilst Thistle and Missile had a stand off, Kazaan and Uthal heard a disturbance around the corner. Upon approaching, they saw Grim and Flint threatening to murder a certain Locathah. You fought them and freed Augh'er, only for their corpses to glitch away.
+
+You then headed for the gate to mechanus, where you would have to stand in a 26 hour queue to reach the gate. A guard told you to go to the Gate Access Bureau, where you waited a similar amount of time in a queue to be able to sign a 3 foot tall stack of documents. This would have taken 2 days, but via a team effort, you got it done in 8. Unfortunately, you collectively rolled an 18 on a DC 20 check, and failed to notice the one line where you were meant to fill in your name, which you misspelled. From the stress, Gawk killed himself, and has a permanent bald patch to go along with his blue feathers.
+
+It was at this point that Aristimus, the head of the towns security, offered you access to the gate. To help convince the Council of Order, he asked you to find a Githzerai called Beltha in the Inverse, and return the stolen logbooks.
+
+You set off to the Divine Machine tavern, where Aristimus said that Beltha meets her contacts. This is where, suddenly, all of the lights went out, and the party began seeing their greatest fears. The source of this was an aboleth, but not. It had beholder eyestalks and fiendish features. After a long and tense fight, the killing blow was landed by Clocksworth, who at that point swore to put an end to all the Aberrations who would seek to harm his friends.
+
+And that is where we pick up, in the aftermath of the fight in front of the Divine Machine Tavern. People huddle around a sobbing woman, holding the severed arm of her late husband after the Aboleth swallowed him in one.
