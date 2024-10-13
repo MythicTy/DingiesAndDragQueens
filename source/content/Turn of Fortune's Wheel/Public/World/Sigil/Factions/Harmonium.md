@@ -5,7 +5,7 @@ Currently Unknown to you.
 # Headquarters
 The Barracks in Sigil.
 # Role
-They are the city's police. They patrol most of the city, record arrests, and carry out arrest warrents sent by the courts.
+They are the city's police. They patrol most of the city, record arrests, and carry out arrest warrants sent by the courts.
 # Members
 Authoritarians flock the Harmonium's ranks, along with other people interested in policing.
 # Epithet

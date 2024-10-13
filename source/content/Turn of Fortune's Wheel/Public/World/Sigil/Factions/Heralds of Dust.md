@@ -3,13 +3,14 @@
 # Factol
 Currently Unknown to you.
 # Headquarters
-The Mortuary in Sigil.
+[[The Mortuary]] in Sigil.
 # Role
 They send off the dead with dignity according to their culture's customs.
 # Members
 Generally consists of corpse collectors, the grief stricken, and many undead. Many lesser roles are filled with generic zombies and skeletons, whereas higher roles are often given to liches and greater undead.
 ## Notable Members
-- Thaeziagnuz, a demilich poet you encountered in the Mortuary.
+- [[Thaeziagnuz]], a demilich poet you encountered in the Mortuary.
+- [[Jex]], a member you encountered in the Mortuary.
 - Maurice, a zombie worker who scorched Uthal whilst trapped in the Crematorium.
 # Epithet
 The Heralds of Dust are colloquially referred to as the Dusters.

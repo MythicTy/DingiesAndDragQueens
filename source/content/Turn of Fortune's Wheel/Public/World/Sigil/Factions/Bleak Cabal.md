@@ -9,8 +9,8 @@ The Bleak Cabal offer sanctuary to any in need, and rehabilitate those affected 
 # Members
 Consolers, healers, and nihilists come to join the Bleak Cabal.
 ## Notable Members
-- Pugdug, who brought you to the Gatehouse to attempt to help heal you.
-- Althax Darkfleece, a bariaur who Pugdug brought you to to attempt to help. 
+- [[Pugdug]], who brought you to the Gatehouse to attempt to help heal you.
+- [[Althax Darkfleece]], a bariaur who Pugdug brought you to to attempt to help. 
 	- Didn't understand what was afflicting you all, but theorised that the multiverse was trying to erase you whilst something was constantly recreating you. 
 	- You are stuck between existence and non-existence.
 # Epithet

@@ -11,7 +11,7 @@
 
 You started the campaign here, starting awake on various cold stone tables and hurting with various pains. 
 
-The Mortuary is the home of the Heralds of Dust, who process the city's dead and deceased. You were clearly one of them before you awoke. You met Morte here, who was merely here to fornicate with the various corpses and undead here. 
+The Mortuary is the home of the [[Heralds of Dust]], who process the city's dead and deceased. You were clearly one of them before you awoke. You met Morte here, who was merely here to fornicate with the various corpses and undead here. 
 # Autopsy Room
 Moving through, you encountered [[Jex]], who screamed that you should be dead, awakening her Flesh Golem where she had dropped her keys into. 
 

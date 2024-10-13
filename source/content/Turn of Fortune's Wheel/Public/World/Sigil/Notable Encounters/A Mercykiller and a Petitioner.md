@@ -5,3 +5,6 @@
 This encounter was between [[Felik]], a petitioner looking for his father, [[Valder]], and a Mercykiller who was also looking for Valder.
 
 You all swooped in, beat up the Mercykiller with Hold Person, and sent them limping away, warning that you'd made a powerful enemy. 
+
+###### References
+[[Mercykillers]]

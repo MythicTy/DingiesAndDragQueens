@@ -10,6 +10,7 @@ They manage the prison.
 Bounty hunters, executioners, and vigilantes make up the ranks of the Mercykillers.
 ## Notable Members
 - In the Lady's Ward, you encountered an unknown member of the Mercykillers harassing a petitioner about where his father is. You rescued the ghost, and the Jailer warned you that you'd made a powerful enemy.
+	- See [[A Mercykiller and a Petitioner]]
 # Epithet
 The Mercykillers are colloquially referred to as the Jailers.
 # Aligned Plane

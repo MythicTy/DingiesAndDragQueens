@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Fell.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Fell.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Fell.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Fell.md"
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md"
               }
             }
           }
@@ -149,37 +150,38 @@
   },
   "active": "db49a79a3cc595ea",
   "lastOpenFiles": [
-    "Turn of Fortune's Wheel/Public/Characters/Sigil/Felicity.md",
-    "Turn of Fortune's Wheel/Public/Characters/Sigil/Farrow.md",
-    "Turn of Fortune's Wheel/Public/Characters/Clocksworth.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Bloody Glitches.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Asmodeus Needs You!.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/A Mercykiller and a Petitioner.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/4. Sire Oliver and the Rats.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/3. Kazaan's Advisor.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/2. Twisted Tea Party.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/1. Stuffed Rat.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Undersigil.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/Institute of Intellectual Excellence.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/The Great Bazaar.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/Felicity's Threads.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/A Major Issue.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
+    "Turn of Fortune's Wheel/Public/Characters/Riaen Blackhome.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/Fortune's Wheel.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/The Mortuary.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/The Hive Ward.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/The Grease Pit.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/The Gatehouse.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/Fell's Tattoos.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Records.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Information.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Transcendent Order.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Society of Sensation.md",
     "Turn of Fortune's Wheel/Public/Characters/Sigil",
     "Turn of Fortune's Wheel/Public/Characters/Faction Members",
-    "index.md",
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Bleak Cabal/Pugdug.md",
-    "Gatehouse.md",
-    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Bleak Cabal/Althax Darkfleece.md",
-    "Turn of Fortune's Wheel/Public/Characters/Sigil/Fell.md",
-    "Turn of Fortune's Wheel/Public/Characters/Felik.md",
-    "Turn of Fortune's Wheel/Public/Characters/Enoll Eva.md",
     "ToFW/Private/Untitled.canvas",
-    "Turn of Fortune's Wheel/Private/Weather.md",
-    "Turn of Fortune's Wheel/Private/The Plot.md",
-    "Turn of Fortune's Wheel/Public/Dream Sequences/3. Thistle's Dream of his Patron.md",
-    "Turn of Fortune's Wheel/Public/Dream Sequences/2. Bawk's Weapon Dream.md",
-    "Turn of Fortune's Wheel/Public/Dream Sequences/1. Grim and Flint Dream.md",
-    "Turn of Fortune's Wheel/Private/Dream Sequences/1. Grim and Flint Dream.md",
-    "Turn of Fortune's Wheel/Private/Dream Sequences/3. Thistle's Dream of his Patron.md",
-    "Turn of Fortune's Wheel/Private/Dream Sequences/4. Breaking Out The Crystal.md",
     "Turn of Fortune's Wheel/Public/Dream Sequences",
-    "Turn of Fortune's Wheel/Private/Dream Sequences/2. Bawk's Weapon Dream.md",
-    "Turn of Fortune's Wheel/Private/Outlands Timekeeping.md",
     "Turn of Fortune's Wheel/Private/Dream Sequences",
-    "Turn of Fortune's Wheel/Private/The Concord Express Logbook.md",
     "Turn of Fortune's Wheel/Private/The Plot and Edits.canvas",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/4. Sire Oliver and the Rats.md",
-    "ToFW/Private/Plot.md",
     "ToFW/Private/Session Prep/Session 23/Untitled.canvas",
     "Turn of Fortune's Wheel/Private/Session Prep/Session 23",
     "Turn of Fortune's Wheel/Images/02-11%20Nowhere.png",
