@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+                "file": "Turn of Fortune's Wheel/Public/Session Recaps/Recap Table.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+                "file": "Turn of Fortune's Wheel/Public/Session Recaps/Recap Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+                "file": "Turn of Fortune's Wheel/Public/Session Recaps/Recap Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md"
+                "file": "Turn of Fortune's Wheel/Public/Session Recaps/Recap Table.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "db49a79a3cc595ea",
   "lastOpenFiles": [
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+    "Turn of Fortune's Wheel/Public/Session Recaps/Recap Table.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Bloody Glitches.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Asmodeus Needs You!.md",
@@ -174,8 +176,6 @@
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/Fell's Tattoos.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Records.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Information.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Transcendent Order.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Society of Sensation.md",
     "Turn of Fortune's Wheel/Public/Characters/Sigil",
     "Turn of Fortune's Wheel/Public/Characters/Faction Members",
     "ToFW/Private/Untitled.canvas",
