@@ -3,7 +3,7 @@
 # Factol
 Currently Unknown to you.
 # Headquarters
-The Prison in Sigil.
+The Prison in [[Sigil]].
 # Role
 They manage the prison.
 # Members

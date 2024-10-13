@@ -1,4 +1,4 @@
-The Ubiquitous Wayfairer is a tavern and inn accessible from hundreds of portals across Sigil, and was the main place you stayed during your time in Sigil.
+The Ubiquitous Wayfairer is a tavern and inn accessible from hundreds of portals across [[Sigil]], and was the main place you stayed during your time in Sigil.
 
 When you first arrived, the place was on fire. This was merely a glitch that only you could see. [[Parisa]] didn't see it, who was with you at the time.
 

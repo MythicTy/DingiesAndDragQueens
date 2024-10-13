@@ -3,7 +3,7 @@
 # Factol
 Currently Unknown to you.
 # Headquarters
-[[The Mortuary]] in Sigil.
+[[The Mortuary]] in [[Sigil]].
 # Role
 They send off the dead with dignity according to their culture's customs.
 # Members

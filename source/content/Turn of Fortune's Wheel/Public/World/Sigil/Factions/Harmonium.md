@@ -3,7 +3,7 @@
 # Factol
 Currently Unknown to you.
 # Headquarters
-The Barracks in Sigil.
+The Barracks in [[Sigil]].
 # Role
 They are the city's police. They patrol most of the city, record arrests, and carry out arrest warrants sent by the courts.
 # Members
