@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Dingies & Drag Queens",
-    pageTitleSuffix: "~ The Wiki ~",
+    pageTitleSuffix: "- Dingies & Drag Queens",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
