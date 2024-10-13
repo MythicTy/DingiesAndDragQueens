@@ -1,0 +1,1 @@
+One of [[Shemeshka]]'s agents, sent to retrieve you after the [[Harmonium]] began hunting you.
