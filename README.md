@@ -1,6 +1,6 @@
 # Obsidian / Quartz / GitHub Pages Template
 
-Deployed URL: https://mythicty.github.io/dnd
+Deployed URL: https://MythicTy.github.io/DnD
 
 Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
 
