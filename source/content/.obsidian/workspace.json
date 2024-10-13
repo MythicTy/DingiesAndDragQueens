@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md"
+                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "db49a79a3cc595ea",
   "lastOpenFiles": [
-    "Turn of Fortune's Wheel/Public/Characters/PCs/Augh'er.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Sigil.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+    "Turn of Fortune's Wheel/Public/Characters/PCs/Augh'er.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Society of Sensation.md",
     "Turn of Fortune's Wheel/Public/Session Recaps/Session 2 - Unrecorded Date.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
@@ -175,8 +177,6 @@
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Heralds of Dust.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Harmonium.md",
     "Turn of Fortune's Wheel/Public/Characters/Felik.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Fated.md",
-    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Doomguard/Doomlord Abraxis.md",
     "Turn of Fortune's Wheel/Public/Characters/Sigil",
     "Turn of Fortune's Wheel/Public/Characters/Faction Members",
     "ToFW/Private/Untitled.canvas",
