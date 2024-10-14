@@ -10,7 +10,7 @@ The Fated are the tax collectors of the city and many parts of the Outlands. The
 Generally consists of bullies, moguls, and warlords who believe that Might Makes Right.
 ## Notable Members
 - [[Grim and Flint]]
-- Uthal
+- [[Uthal]]
 # Epithet
 The Fated are colloquially referred to as the Takers.
 # Aligned Plane
