@@ -3,7 +3,7 @@
 3. Speared by Uthal in demonstration to Parissa
 4. Hacked off his arm in the Gatehouse and died of bloodloss
 5. Public execution for money
-6. And then jumped into the forge in the Armory
+6. Jumped into the forge in the Armory
 7. Dominated by a swarm of cranium rats, and then had his spine torn out by Thistle
 8. Beaten to death by a caker with a rolling pin, and then bled out.
 9. Head cleaved off by Thistle in demonstration to a procession of Tortles

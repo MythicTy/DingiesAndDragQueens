@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+                "file": "Turn of Fortune's Wheel/Public/Characters/Clocksworth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+                "file": "Turn of Fortune's Wheel/Public/Characters/Clocksworth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+                "file": "Turn of Fortune's Wheel/Public/Characters/Clocksworth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md"
+                "file": "Turn of Fortune's Wheel/Public/Characters/Clocksworth.md"
               }
             }
           }
@@ -148,18 +148,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2555171eabe0d0b5",
+  "active": "db49a79a3cc595ea",
   "lastOpenFiles": [
-    "Turn of Fortune's Wheel/Public/World/Sigil/Sigil.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
+    "Turn of Fortune's Wheel/Public/Session Recaps/Session 2 - Unrecorded Date.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Mercykillers.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Heralds of Dust.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Harmonium.md",
+    "Turn of Fortune's Wheel/Public/Characters/Felik.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Fated.md",
+    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Doomguard/Doomlord Abraxis.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Doomguard.md",
+    "Turn of Fortune's Wheel/Public/Characters/Clocksworth.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Bleak Cabal.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+    "Automata.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Sigil.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
     "Turn of Fortune's Wheel/Public/Characters/PCs/Augh'er.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Society of Sensation.md",
-    "Turn of Fortune's Wheel/Public/Session Recaps/Session 2 - Unrecorded Date.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Records.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/Felicity's Threads.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Doomguard.md",
     "Turn of Fortune's Wheel/Public/Dream Sequences/2. Bawk's Weapon Dream.md",
     "Turn of Fortune's Wheel/Public/Characters/PCs/Uthal.md",
     "Turn of Fortune's Wheel/Public/Characters/PCs/Thistle.md",
@@ -167,16 +177,6 @@
     "Turn of Fortune's Wheel/Public/Characters/PCs/Bawk.md",
     "Turn of Fortune's Wheel/Public/Deaths/Reasons/Uthal's Deaths.md",
     "Turn of Fortune's Wheel/Public/Characters/PCs",
-    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Thistle's Deaths.md",
-    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Kazaan's Deaths.md",
-    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Bawk's Deaths.md",
-    "Turn of Fortune's Wheel/Public/Deaths/Reasons/Augh'er's Deaths.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lower Ward/The Ubiquitous Wayfairer.md",
-    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Doomguard/Sirus, Kazaan's Advisor.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Mercykillers.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Heralds of Dust.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Harmonium.md",
-    "Turn of Fortune's Wheel/Public/Characters/Felik.md",
     "Turn of Fortune's Wheel/Public/Characters/Sigil",
     "Turn of Fortune's Wheel/Public/Characters/Faction Members",
     "ToFW/Private/Untitled.canvas",

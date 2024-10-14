@@ -1,0 +1,1 @@
+She is the Academy Dean for the [[Institute of Intellectual Excellence]] and attempted to help you figure out the cause of the Glitch. She theorised that it could be related to time travel or the energy of the planes.

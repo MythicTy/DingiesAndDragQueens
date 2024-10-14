@@ -1,4 +1,4 @@
-You encountered Abraxis in [[The Armoury]] in [[Sigil]]. He confronted Kazaan about surviving an assassination attempt.
+You encountered Abraxis in [[The Armoury]] in Sigil. He confronted Kazaan about surviving an assassination attempt.
 
 Abraxis is the current Doomlord of [[Muspelforge]], successor to Kazaan.
 

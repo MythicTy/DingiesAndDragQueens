@@ -3,7 +3,7 @@
 # Factol
 Currently Unknown to you.
 # Headquarters
-[[The Gatehouse]] in [[Sigil]].
+[[The Gatehouse]] in Sigil.
 # Role
 The Bleak Cabal offer sanctuary to any in need, and rehabilitate those affected by the energies of the planes.
 # Members
