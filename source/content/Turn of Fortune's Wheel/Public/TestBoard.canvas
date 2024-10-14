@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"2096b43611829906","x":-420,"y":-320,"width":250,"height":60,"type":"text","text":"sdfgdfgdfg"},
-		{"id":"d5d4d19aee9721bb","x":-240,"y":-60,"width":420,"height":240,"type":"text","text":"dfgdfgdfag"},
-		{"id":"bfe928bd045cdc6b","x":40,"y":-453,"width":400,"height":267,"type":"file","file":"Turn of Fortune's Wheel/Images/02-11%20Nowhere.png"}
-	],
-	"edges":[]
-}

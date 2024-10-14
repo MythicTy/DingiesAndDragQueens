@@ -1,0 +1,1 @@
+You do not know much about this character, other than hearing their name mentioned a few times. Notably, in [[Turn of Fortune's Wheel/Public/Dream Sequences/1. Grim and Flint Dream|1. Grim and Flint Dream]].

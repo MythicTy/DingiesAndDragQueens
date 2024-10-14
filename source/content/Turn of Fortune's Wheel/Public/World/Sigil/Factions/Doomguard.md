@@ -16,7 +16,7 @@ Generally consists of entropists, soldiers, and weaponsmiths.
 # Epithet
 The Doomguard are colloquially referred to as the Sinkers.
 # Aligned Plane
-Elemental Chaos. Their faction citadels are built and maintained here, including [[Muspelforge]], previously owned by Kazaan. There are 4 faction citadels, headed by the 4 different Doomlords.
+Elemental Chaos. Their faction citadels are built and maintained here, including [[Muspelforge]], previously owned by Kazaan. There are 4 faction citadels, headed by the 4 different Doomlords. The portal to these citadels is in the Armoury.
 # Attire
 Their armour is rusty and adorned with bones. Members are often scarred and burnt.
 # Beliefs
