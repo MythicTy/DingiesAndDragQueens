@@ -9,7 +9,7 @@ The Doomguard oversees the production and sales of weaponry within the city.
 # Members
 Generally consists of entropists, soldiers, and weaponsmiths.
 ## Notable Members
-- Kazaan
+- [[Kazaan]]
 - [[Doomlord Abraxis]]
 - [[Aslan Ashfang]], who gave a quest to [[Bawk]] and aided your group out of boredom
 - [[Sirus, Kazaan's Advisor]]

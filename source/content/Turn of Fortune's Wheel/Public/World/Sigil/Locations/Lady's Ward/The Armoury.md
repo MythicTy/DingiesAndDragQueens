@@ -4,4 +4,4 @@
 
 You entered here in search of answers due to Kazaan being a previous member of the Doomguard. [[Aslan Ashfang]], welcomed you.
 
-After a short while, you noticed movement of guards above you. Out of one of the upper balcony doors walked [[Doomlord Abraxis]], who confronted Kazaan about still being alive. A fight ensued, killing Uthal and Kazaan. Bawk and Thistle fled, but not before Bawk made a deal with [[Aslan Ashfang]], requiring him to kill Sabril Kahaar, a rival merchant in Tradegate.
+After a short while, you noticed movement of guards above you. Out of one of the upper balcony doors walked [[Doomlord Abraxis]], who confronted [[Kazaan]] about still being alive. A fight ensued, killing Uthal and Kazaan. Bawk and Thistle fled, but not before Bawk made a deal with [[Aslan Ashfang]], requiring him to kill Sabril Kahaar, a rival merchant in Tradegate.
