@@ -11,7 +11,9 @@
 
 You started the campaign here, starting awake on various cold stone tables and hurting with various pains. 
 
-The Mortuary is the home of the [[Heralds of Dust]], who process the city's dead and deceased. You were clearly one of them before you awoke. You met Morte here, who was merely here to fornicate with the various corpses and undead here. 
+The Mortuary is the home of the [[Heralds of Dust]], who process the city's dead and deceased. You were clearly one of them before you awoke. You met [[Morte]] here, who was merely here to fornicate with the various corpses and undead here. 
+
+![[01-01 M1 Morgue.jpg]]![[01-01 M0 Mortuary Basement Map Player Version 1.jpg]]
 # Autopsy Room
 Moving through, you encountered [[Jex]], who screamed that you should be dead, awakening her Flesh Golem where she had dropped her keys into. 
 
@@ -28,6 +30,8 @@ The only way forward was through the Crematorium hallway - horrible design, I kn
 > An ashy broom and dustpan lean against the wall out-side a narrow corridor with an iron, windowed door. Two levers - a blue lever in the upward position and a red lever turned downward - are set into the walls adjacent to the door. An identical door stands closed at the end of the passageway.
 
 Due to bad decisions, Uthal got trapped in the hallway and scorched by Maurice the zombie. Surprisingly, he didn't die and firmed it.
+
+![[01-01 M5 Crematorium.png]]
 # Corpse Retrieval
 > A metal chute is set into the wall of this foul chamber. Grisly puddles spatter the floor, and corpses topple from an overturned cart.
 
@@ -50,3 +54,5 @@ The last room you entered, and swiftly exited.
 > Snow blankets this quiet, indoor grove of icy brambles. Carcasses worn by time lie partially buried in the sleet and ice. A skeletal, black barked tree looms over the gloomy orchard. Its branches bear a single fruit.
 
 You left the Mortuary, heading for the surface of the Hive Ward.
+
+![[01-02 Mortuary Domes.png]]

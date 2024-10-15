@@ -2,4 +2,6 @@ You encountered Jex in [[The Mortuary]] during your first session. She was a mem
 
 Notably, she had a missing jaw, replaced with translucent wax that allowed you to see the damaged part of her skull. 
 
-The flesh golem killed Uthal, the first death of the campaign, by crushing his head into the concrete. 
+The flesh golem killed Uthal, the first death of the campaign, by crushing his head into the concrete.
+
+![[01-01 M2 Jex.png]]

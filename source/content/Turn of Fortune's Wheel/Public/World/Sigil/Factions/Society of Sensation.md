@@ -1,1 +1,1 @@
-You visited the Civic Festhall, their headquarters, to execute [[Bawk]] for money. You didn't learn much about the faction.
+You visited the [[Civic Festhall]], their headquarters, to execute [[Bawk]] for money. You didn't learn much about the faction.![[02-06 Society of Sensation Muse.png]]

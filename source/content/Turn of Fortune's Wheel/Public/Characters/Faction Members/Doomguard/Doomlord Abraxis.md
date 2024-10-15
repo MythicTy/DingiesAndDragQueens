@@ -7,3 +7,5 @@ Abraxis is the current Doomlord of [[Muspelforge]], successor to Kazaan.
 It's unknown why he attempted to kill Kazaan, but talked of "philosophical differences" and "getting in the way of our plans". He also mentioned killing Kazaan's advisors. After noticing that Kazaan didn't remember, he refused to elaborate as there was no need.
 
 He killed Kazaan and Uthal after toying with you all. Thistle and Bawk fled.
+
+![[Doomguard Doom Lord.webp]]

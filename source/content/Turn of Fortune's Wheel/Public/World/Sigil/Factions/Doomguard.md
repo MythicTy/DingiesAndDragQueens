@@ -25,3 +25,5 @@ They believe that the purpose of everything is to crumble. Nothing lasts forever
 The Doomguard have leverage over a lot of factions due to controlling weapon production.
 They oppose Harmonium and Fraternity of Order. These two factions push for control and order, whereas the Doomguard believe in true entropy.
 Allied with Bleak Cabal and Heralds of Dust due to sharing many matching ideologies.
+
+![[Doomguard Rot Blade.webp]]

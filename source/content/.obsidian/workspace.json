@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "769d67b62b79f261",
+            "id": "5731fdc4dad80366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md",
+                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/The Armoury.md"
+                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md"
               }
             }
           },
@@ -156,35 +156,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "769d67b62b79f261",
+  "active": "5731fdc4dad80366",
   "lastOpenFiles": [
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Doomguard.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Athar.md",
-    "Turn of Fortune's Wheel/Public/World/Planes/Elemental Planes/Muspelforge.md",
-    "Turn of Fortune's Wheel/Public/World/Lore/The Great Modron March.md",
-    "Turn of Fortune's Wheel/Public/Characters/PCs/Augh'er.md",
-    "Turn of Fortune's Wheel/Public/Characters/PCs/Bawk.md",
-    "Turn of Fortune's Wheel/Public/Characters/Clocksworth.md",
-    "Turn of Fortune's Wheel/Public/Characters/Major Nirra Kalar.md",
-    "Turn of Fortune's Wheel/Public/Characters/Skall.md",
-    "Turn of Fortune's Wheel/Public/Characters/Valder.md",
-    "Turn of Fortune's Wheel/Public/Session Recaps/Session 17 - Tuesday 27th August.md",
-    "2024-10-14.md",
-    "Turn of Fortune's Wheel/Public/TestBoard.canvas",
-    "Turn of Fortune's Wheel/Public/Session Recaps/Session 10 - Friday 7th June.md",
-    "Turn of Fortune's Wheel/Public/Session Recaps/Session 2 - Unrecorded Date.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/The Hive Ward.md",
-    "index.md",
-    "Turn of Fortune's Wheel/Public/Characters/Felik.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Heralds of Dust.md",
-    "Turn of Fortune's Wheel/Public/Characters/Faction Members/Doomguard/Doomlord Abraxis.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Fraternity of Order.md",
-    "Turn of Fortune's Wheel/Public/World/Outlands/Gatetowns/Automata.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Bleak Cabal.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Records.md",
+    "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences/Bawk's Weapon Dream.md",
+    "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
+    "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences/Thistle's Dream of his Patron.md",
+    "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences/Grim and Flint Dream.md",
+    "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Undersigil.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Sire Oliver and the Rats.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Kazaan's Advisor.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Twisted Tea Party.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Stuffed Rat.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Sensory Experience.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Society of Sensation.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Civic Festhall.md",
+    "Turn of Fortune's Wheel/Images/02-07 Clerks Ward.png",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/The Great Bazaar.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Lesser Factions/Coterie of Cakes.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Lesser Factions",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/The Gatehouse.md",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Hive Ward/Fell's Tattoos.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Factions/Fated.md",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/A Major Issue.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Records.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Information.md",
+    "Turn of Fortune's Wheel/Public/World/Planes/Elemental Planes/Muspelforge.md",
+    "Turn of Fortune's Wheel/Public/World/Outlands/Gatetowns/Rigus.md",
+    "Turn of Fortune's Wheel/Public/World/Outlands/Gatetowns/Automata.md",
+    "Turn of Fortune's Wheel/Public/World/Lore/The Great Modron March.md",
+    "Turn of Fortune's Wheel/Public/Characters/Valder.md",
+    "Turn of Fortune's Wheel/Public/Characters/Skall.md",
+    "Turn of Fortune's Wheel/Public/Characters/Morte.md",
+    "01-01 M0 Mortuary Basement Map Player Version 1.jpg",
+    "01-01 M0 Mortuary Basement Map Player Version.jpg",
+    "Turn of Fortune's Wheel/Images/Modrons-mechanus-5e.webp",
+    "Turn of Fortune's Wheel/Images/monodrone.jpg",
+    "Turn of Fortune's Wheel/Images/02-00 Lady of Pain.jpg",
+    "Turn of Fortune's Wheel/Images/02-03 Fell.png",
+    "Turn of Fortune's Wheel/Images/01-02 Darkweaver.png",
+    "Turn of Fortune's Wheel/Images/Efreeti.webp",
+    "Turn of Fortune's Wheel/Images/Doomguard Rot Blade.webp",
+    "Turn of Fortune's Wheel/Public/TestBoard.canvas",
     "Turn of Fortune's Wheel/Public/Characters/PCs",
     "Turn of Fortune's Wheel/Public/Characters/Sigil",
     "Turn of Fortune's Wheel/Public/Characters/Faction Members",
@@ -194,14 +206,7 @@
     "Turn of Fortune's Wheel/Private/The Plot and Edits.canvas",
     "ToFW/Private/Session Prep/Session 23/Untitled.canvas",
     "Turn of Fortune's Wheel/Private/Session Prep/Session 23",
-    "Turn of Fortune's Wheel/Images/02-11%20Nowhere.png",
-    "Turn of Fortune's Wheel/Images/02-00%20Hall%20of%20Records 1.png",
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil/Encounters",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil",
-    "Turn of Fortune's Wheel/Images/02-00%20Hall%20of%20Records.png",
-    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward",
-    "Turn of Fortune's Wheel/Images/00-01%20Sigil%20Map.jpg",
-    "Turn of Fortune's Wheel/Images",
-    "Turn of Fortune's Wheel/Images/01-02%20Parisa%20the%20Tout.png"
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Undersigil"
   ]
 }

@@ -14,3 +14,5 @@
 - Jug of Lava from the Styx - 75gp for a Potion of Fire Breath
 - Blessed Vampire Blood - 50gp for a Potion of Healing
 - Celestial Snow Cone - 50gp for a Potion of Healing
+
+![[02-01 Grease Pit.png]]

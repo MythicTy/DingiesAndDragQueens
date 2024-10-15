@@ -5,3 +5,5 @@
 > The cosmopolitan sampling of the planes and all they have to offer stands before you.
 
 Many interesting events happening here. You started your stop with some shopping. Bawk purchased a Bag of Withholding here, alongside a Mimic Ring. 
+
+![[02-09 Market Ward.png]]
