@@ -1,4 +1,4 @@
-|      | Total                | 37  |
+|      | Total                | 45  |
 | ---- | -------------------- | --- |
 | 1st  | [[Bawk's Deaths]]    | 32  |
 | 2nd  | [[Uthal's Deaths]]   | 6   |
