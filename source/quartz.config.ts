@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://mythicty.github.io/DnD/",
     ignorePatterns: ["private", "templates", ".obsidian", "**/Private"],
     defaultDateType: "created",
     theme: {
