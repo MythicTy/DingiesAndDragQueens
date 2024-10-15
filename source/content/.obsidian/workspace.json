@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
+                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Shemeshka.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
+                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Shemeshka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
+                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Shemeshka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md"
+                "file": "Turn of Fortune's Wheel/Public/Characters/Sigil/Shemeshka.md"
               }
             }
           },
@@ -158,8 +158,14 @@
   },
   "active": "5731fdc4dad80366",
   "lastOpenFiles": [
-    "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences/Bawk's Weapon Dream.md",
+    "Turn of Fortune's Wheel/Public/Characters/Sigil/Shemeshka.md",
+    "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Lady's Ward/Fortune's Wheel.md",
+    "Turn of Fortune's Wheel/Public/World/Outlands/The Outlands.md",
+    "Turn of Fortune's Wheel/Public/Characters/R04M.md",
+    "Turn of Fortune's Wheel/Public/Characters/Sigil/Winter's Bite.md",
+    "Turn of Fortune's Wheel/Images/Shemeshka's Letter.png",
     "Turn of Fortune's Wheel/Public/Dream Sequences/Dream Sequences.md",
+    "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences/Bawk's Weapon Dream.md",
     "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences/Thistle's Dream of his Patron.md",
     "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences/Grim and Flint Dream.md",
     "Turn of Fortune's Wheel/Public/Dream Sequences/Sequences",
@@ -182,11 +188,6 @@
     "Turn of Fortune's Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Information.md",
     "Turn of Fortune's Wheel/Public/World/Planes/Elemental Planes/Muspelforge.md",
     "Turn of Fortune's Wheel/Public/World/Outlands/Gatetowns/Rigus.md",
-    "Turn of Fortune's Wheel/Public/World/Outlands/Gatetowns/Automata.md",
-    "Turn of Fortune's Wheel/Public/World/Lore/The Great Modron March.md",
-    "Turn of Fortune's Wheel/Public/Characters/Valder.md",
-    "Turn of Fortune's Wheel/Public/Characters/Skall.md",
-    "Turn of Fortune's Wheel/Public/Characters/Morte.md",
     "01-01 M0 Mortuary Basement Map Player Version 1.jpg",
     "01-01 M0 Mortuary Basement Map Player Version.jpg",
     "Turn of Fortune's Wheel/Images/Modrons-mechanus-5e.webp",
@@ -195,7 +196,6 @@
     "Turn of Fortune's Wheel/Images/02-03 Fell.png",
     "Turn of Fortune's Wheel/Images/01-02 Darkweaver.png",
     "Turn of Fortune's Wheel/Images/Efreeti.webp",
-    "Turn of Fortune's Wheel/Images/Doomguard Rot Blade.webp",
     "Turn of Fortune's Wheel/Public/TestBoard.canvas",
     "Turn of Fortune's Wheel/Public/Characters/PCs",
     "Turn of Fortune's Wheel/Public/Characters/Sigil",
