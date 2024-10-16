@@ -29,5 +29,6 @@ This floor contains Zaythir's study, alongside various rooms and a bathroom. The
 > This chamber is dominated by a sculpture of a gigantic, humanlike figure looming over a broad, circular table. A ladder to the north descends, while a ladder to the south climbs to the floor above. 
 
 This room is the home of the Castellan who commands the castle. So far, you know that it only understand Gith, and only respects Zaythir. It shows a map of [[The Outlands]] or the castle and it's damages. 
+
 ![[04-03 W6 Zaythir and The Castellan.png]]
 ![[04-02 The Walking Castle.jpg]]

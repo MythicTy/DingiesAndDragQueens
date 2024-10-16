@@ -136,6 +136,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "16b3978b9962e0c2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f249c6519cca04cc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -153,14 +169,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "5731fdc4dad80366",
   "lastOpenFiles": [
+    "Turn of Fortunes Wheel/Public/World/Outlands/The Outlands.md",
+    "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
+    "Turn of Fortunes Wheel/Public/Characters/PCs/Uthal.md",
     "Turn of Fortunes Wheel/Images/04-03 W6 Zaythir and The Castellan.png",
     "Turn of Fortunes Wheel/Images/1S3DFB1396DVe3-GYC28.png",
-    "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
     "Turn of Fortunes Wheel/Images/1S3DWO1396DVe5-EAiZW.png",
     "Turn of Fortunes Wheel/Images/1S3DRw1396DVe4-cy0lC.png",
     "Turn of Fortunes Wheel/Images/1S3Dfg1396DVe2-wusMf.png",
@@ -186,14 +205,12 @@
     "Turn of Fortunes Wheel/Images/nycaloth.jpg",
     "Turn of Fortunes Wheel/Public/Characters/Sigil/Shemeshka.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Lady's Ward/Fortune's Wheel.md",
-    "Turn of Fortunes Wheel/Public/World/Outlands/The Outlands.md",
     "Turn of Fortunes Wheel/Images/04-01 The Outlands.jpg",
     "Turn of Fortunes Wheel/Images/04-01 The Outlands 2.png",
     "Turn of Fortunes Wheel/Public/Session Recaps/Session 22 - Tuesday 8th October.md",
     "Turn of Fortunes Wheel/Public/Characters/Companions/Clocksworth.md",
     "Turn of Fortunes Wheel/Public/Characters/Companions/Barry the Capybara.md",
     "Turn of Fortunes Wheel/Public/Characters/Companions/Sal the Slaad.md",
-    "Turn of Fortunes Wheel/Images/01-01 M0 Mortuary Basement Map Player Version.jpg",
     "Turn of Fortunes Wheel/Public/Characters/Companions",
     "Turn of Fortunes Wheel/Public/Deaths/Death Scoreboard.md",
     "Turn of Fortunes Wheel/Public/Characters/R04M.md",

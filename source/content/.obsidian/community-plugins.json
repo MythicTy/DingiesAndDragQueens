@@ -1,5 +1,8 @@
 [
   "obsidian-style-settings",
   "obsidian-git",
-  "text-extractor"
+  "text-extractor",
+  "statblock-sidekick",
+  "initiative-tracker",
+  "obsidian-dice-roller"
 ]
