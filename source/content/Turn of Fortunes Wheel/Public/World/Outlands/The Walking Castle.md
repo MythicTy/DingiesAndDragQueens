@@ -9,11 +9,14 @@ Following the impact marks in the ground just after you arrived, you happened ac
 
 The castle had been overtaken by fiends that you later learned were bounty hunters looking for the same R04M as you were. You cleared them out along with their leader, [[Thlaarsh the Gore Drinker]], who managed to get the drop on your party, spearing Thistle with his claws from behind. 
 
-You rescued [[Zaythir]], the keeper of Iedcaru, from her imprisonment. She explained that the fiends had followed R04M to the castle, but he escaped. Because of that, they decided to stay and try to figure out how to hijack the structure for their own purposes. She was in your debt, and allowed you to use the castle as your base in your travels whilst you looked for R04M, in exchange for giving him a chance because he seemed like a nice enough person. 
+You rescued [[Zaythir]], the keeper of Iedcaru, from her imprisonment. She explained that the fiends had followed [[R04M]] to the castle, but he escaped. Because of that, they decided to stay and try to figure out how to hijack the structure for their own purposes. She is in your debt, and allowed you to use the castle as your base in your travels whilst you looked for [[R04M]], in exchange for giving him a chance because he seemed like a nice enough person. 
 # The History of Iedcaru
 The castle is a repository of study and learning, built by the Githzerai long ago. They built it so that they could travel and study [[The Outlands]], logging their findings in the vast library found on the bottom floor. [[Zaythir]] is the current of a long line of keepers of Iedcaru. In a sarcophagus located on the ground floor is the mummified remains of [[Laxuelu]], the first keeper of the castle. 
+# Recent Visitors
+The castle has seen many new visitors recently. Notably, [[R04M]], who stopped by the tower to ask [[Zaythir]] to help repair his [[The Mosaic Mimir|Mosaic Mimir]]. He claimed it to be "the key to freeing my friends." He said he was following the path of [[The Great Modron March]], but to what end she does not know. Shortly after [[R04M]] arrived, so did the fiends who were hunting him. He managed to slip out and escape, but it's unknown where he went.
 # The Castle Layout
 The castle has 5 floors, and is capable of moving at a fixed 17mph. The castle will only move when the Castellan tells it to.
+
 ![[04-03 W0 Walking Castle Map Player Version.jpg]]
 ## First Floor - Library
 This floor is the castle library, containing vast amounts of books and writings on esoteric philosophies, multiversal theories, and studies of the various planes and gatetowns. It also contains the mummified remains of [[Laxuelu]], the first keeper and caretaker of the castle. Speaking a desire for a text on a certain topic, it's eyes of brass flick to look at the exact location of the book in the library. 
@@ -28,7 +31,7 @@ This floor contains Zaythir's study, alongside various rooms and a bathroom. The
 ## Third Floor - The Castellan
 > This chamber is dominated by a sculpture of a gigantic, humanlike figure looming over a broad, circular table. A ladder to the north descends, while a ladder to the south climbs to the floor above. 
 
-This room is the home of the Castellan who commands the castle. So far, you know that it only understand Gith, and only respects Zaythir. It shows a map of [[The Outlands]] or the castle and it's damages. 
+This room is the home of the Castellan who commands the castle. So far, you know that it only understand Gith, and only respects [[Zaythir]]. It shows a map of [[The Outlands]] or the castle and it's damages. 
 
 ![[04-03 W6 Zaythir and The Castellan.png]]
 ## Fourth Floor - Meditation Chamber

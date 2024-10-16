@@ -1,0 +1,1 @@
+She is a scholar of the planes who studies the outlands and the planes beyond. She has guarded [[The Walking Castle|Iedcaru]] for years. The Castellan is her companion in the otherwise lonely tower, until your party came along. 
