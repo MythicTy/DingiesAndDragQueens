@@ -1,3 +1,0 @@
-> A tunnel leads through a half-collapsed basement. At the centre of the chamber, a rat with an exposed brain and a bloated stomach lies belly0ip on a porcelain plate scattered ith pink crumbs. As the rodent meets your gace, you hear a low voice in your mind. "Do what you must," it says. "We have already won."
-
-Uthal promptly squished it, triggered a swarm of cranium rats to swarm the party and Farrow.

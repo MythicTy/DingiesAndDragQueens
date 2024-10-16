@@ -1,1 +1,0 @@
-You met [[Sirus, Kazaan's Advisor]], here.

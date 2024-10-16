@@ -4,4 +4,4 @@ When you first arrived, the place was on fire. This was merely a glitch that onl
 
 You were greeted by [[Riaen Blackhome]], the owner of the inn. She welcomed you back and asked if you all wanted the same room as before, but apologised because it hadn't been cleaned since you last used it. Despite investigating the room, you found nothing of note.
 
-The morning after you escapade at [[The Armoury]], a hooded figure with distinctive tattoo arrived to meet you all, warning you that the [[Harmonium]] were hunting you all and that his employer had a proposition. He'd take you safely to see them. He was [[Farrow]].
+The morning after your escapade at [[The Lower Ward|The Armoury]], a hooded figure with distinctive tattoo arrived to meet you all, warning you that the [[Harmonium]] were hunting you all and that his employer had a proposition. He'd take you safely to see them. He was [[Farrow]].

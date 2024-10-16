@@ -1,1 +1,0 @@
-You encounted [[Sire Oliver]] the Twisted here for the second time. He was doing something with the cranium rats that infested Undersigil; what that was, you're unsure. He escaped again.

@@ -3,7 +3,7 @@
 # Factol
 Currently Unknown to you.
 # Headquarters
-[[The Armoury]] in Sigil.
+[[The Lower Ward|The Armoury]] in Sigil.
 # Role
 The Doomguard oversees the production and sales of weaponry within the city.
 # Members

@@ -3,7 +3,7 @@
 # Factol
 Currently Unknown to you.
 # Headquarters
-[[Hall of Records]] in Sigil.
+[[The Clerk's Ward|Hall of Records]] in Sigil.
 # Role
 The Fated are the tax collectors of the city and many parts of the Outlands. They're feared by many, and disliked by many more.
 # Members

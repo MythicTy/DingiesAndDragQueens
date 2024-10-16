@@ -1,1 +1,1 @@
-You have so far only encountered these once, in [[Twisted Tea Party]]. They believe that the multiverse is one giant, layered cake.
+You have so far only encountered these once, in [[Undersigil|Twisted Tea Party]]. They believe that the multiverse is one giant, layered cake.
