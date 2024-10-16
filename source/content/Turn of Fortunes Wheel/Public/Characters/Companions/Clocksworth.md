@@ -6,6 +6,6 @@ You met Clocksworth in Sigil as you explored the City.
 
 He's a lost member of the [[The Great Modron March]], which left 189 years earlier than it should have. You collectively decided to keep him. Notably, he commented that you all looked like you'd seen other modrons.
 
-He is now a travelling companion of yours. In [[Automata]], you encountered a glitching version of [[The Great Modron March]] that culminated in you fighting a glitching, fiendish, beholder-aboleth creature. After the fight, Clocksworth swore an Oath of Vengeance to rescue his fellow modrons and kill any aberration that would stand in his way.
+He is now a travelling companion of yours. In [[Automata]], you encountered a glitching version of [[The Great Modron March]] that culminated in you fighting a glitching, fiendish, beholder-aboleth creature. After the fight, Clocksworth swore an Oath of Vengeance to help his fellow modrons and kill any aberration that would stand in his way.
 
 ![[monodrone.jpg]]

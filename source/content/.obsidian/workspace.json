@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
+                "file": "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
+                "file": "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
+                "file": "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md"
+                "file": "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md"
               }
             }
           },
@@ -166,14 +166,27 @@
   },
   "active": "5731fdc4dad80366",
   "lastOpenFiles": [
+    "Turn of Fortunes Wheel/Images/05-05 The Inverse.png",
+    "Turn of Fortunes Wheel/Public/Characters/The Outlands/Beltha.md",
+    "Turn of Fortunes Wheel/Public/Characters/The Outlands",
     "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md",
+    "Turn of Fortunes Wheel/Images/1S9N8z1Jzk9q2O-9tYAE.png",
+    "Turn of Fortunes Wheel/Public/Characters/The Outlands/Aristimus.md",
+    "Turn of Fortunes Wheel/Images/05-06 Concord Terminus 1.png",
+    "Turn of Fortunes Wheel/Images/1S9MV81Jzk9q2M-qohqi.png",
+    "Turn of Fortunes Wheel/Images/05-06 Concord Terminus.png",
+    "Turn of Fortunes Wheel/Public/Characters/Companions/Clocksworth.md",
+    "Turn of Fortunes Wheel/Public/Characters/Faction Members/Fated/Grim and Flint.md",
+    "Turn of Fortunes Wheel/Public/Characters/PCs/Missile.md",
+    "Turn of Fortunes Wheel/Public/World/Outlands/Outlands Encounters/Wild Magic Storm.md",
+    "Turn of Fortunes Wheel/Public/World/Outlands/Outlands Encounters",
+    "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
     "Turn of Fortunes Wheel/Images/Lolth2e.webp",
     "Turn of Fortunes Wheel/Images/1S7eYm1VdT2s9c-5WWBK.png",
-    "Turn of Fortunes Wheel/Public/Characters/Laxuelu.md",
+    "Turn of Fortunes Wheel/Public/Characters/The Outlands/Laxuelu.md",
     "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
     "Turn of Fortunes Wheel/Public/Characters/R04M.md",
     "Turn of Fortunes Wheel/Images/13-08 R04M.png",
-    "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
     "Turn of Fortunes Wheel/Public/Notable Items",
     "Turn of Fortunes Wheel/Public/Characters/Companions/Zaythir.md",
     "Turn of Fortunes Wheel/Images/1S3E9W1396DVe7-vF9Ol.png",
@@ -181,13 +194,9 @@
     "Turn of Fortunes Wheel/Images/00-02 Outlands Map.jpg",
     "Turn of Fortunes Wheel/Public/Characters/PCs/Uthal.md",
     "Turn of Fortunes Wheel/Images/04-03 W6 Zaythir and The Castellan.png",
-    "Turn of Fortunes Wheel/Images/1S3DFB1396DVe3-GYC28.png",
-    "Turn of Fortunes Wheel/Images/1S3DWO1396DVe5-EAiZW.png",
-    "Turn of Fortunes Wheel/Images/1S3DRw1396DVe4-cy0lC.png",
-    "Turn of Fortunes Wheel/Images/1S3Dfg1396DVe2-wusMf.png",
     "index.md",
     "Turn of Fortunes Wheel/Private/Test File.md",
-    "Turn of Fortunes Wheel/Public/Characters/Thlaarsh the Gore Drinker.md",
+    "Turn of Fortunes Wheel/Public/Characters/The Outlands/Thlaarsh the Gore Drinker.md",
     "Turn of Fortunes Wheel/Private/Weather.md",
     "Turn of Fortunes Wheel/Private/The Plot.md",
     "Turn of Fortunes Wheel/Private/The Plot and Edits.canvas",
@@ -200,19 +209,11 @@
     "Turn of Fortunes Wheel/Private/Dream Sequences/2. Bawk's Weapon Dream.md",
     "Turn of Fortunes Wheel/Private/Dream Sequences/1. Grim and Flint Dream.md",
     "Turn of Fortunes Wheel/Private/Dream Sequences",
-    "Turn of Fortunes Wheel/Public/Characters/Sigil/Shemeshka.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Lady's Ward/Fortune's Wheel.md",
-    "Turn of Fortunes Wheel/Public/Session Recaps/Session 22 - Tuesday 8th October.md",
-    "Turn of Fortunes Wheel/Public/Characters/Companions/Clocksworth.md",
-    "Turn of Fortunes Wheel/Public/Characters/Companions/Barry the Capybara.md",
-    "Turn of Fortunes Wheel/Public/Characters/Companions/Sal the Slaad.md",
     "Turn of Fortunes Wheel/Public/Characters/Companions",
     "Turn of Fortunes Wheel/Public/Dream Sequences/Sequences",
     "Turn of Fortunes Wheel/Public/World/Sigil/Factions/Lesser Factions",
     "Turn of Fortune's Wheel/Public/TestBoard.canvas",
     "Turn of Fortunes Wheel/Public/Characters/PCs",
-    "Turn of Fortunes Wheel/Public/Characters/Sigil",
-    "Turn of Fortunes Wheel/Public/Characters/Faction Members",
     "ToFW/Private/Untitled.canvas",
     "ToFW/Private/Session Prep/Session 23/Untitled.canvas"
   ]
