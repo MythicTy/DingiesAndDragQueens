@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
+                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
+                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
+                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md"
+                "file": "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md"
               }
             }
           },
@@ -166,9 +166,13 @@
   },
   "active": "5731fdc4dad80366",
   "lastOpenFiles": [
+    "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md",
+    "Turn of Fortunes Wheel/Images/Lolth2e.webp",
+    "Turn of Fortunes Wheel/Images/1S7eYm1VdT2s9c-5WWBK.png",
+    "Turn of Fortunes Wheel/Public/Characters/Laxuelu.md",
+    "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
     "Turn of Fortunes Wheel/Public/Characters/R04M.md",
     "Turn of Fortunes Wheel/Images/13-08 R04M.png",
-    "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
     "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
     "Turn of Fortunes Wheel/Public/Notable Items",
     "Turn of Fortunes Wheel/Public/Characters/Companions/Zaythir.md",
@@ -181,9 +185,6 @@
     "Turn of Fortunes Wheel/Images/1S3DWO1396DVe5-EAiZW.png",
     "Turn of Fortunes Wheel/Images/1S3DRw1396DVe4-cy0lC.png",
     "Turn of Fortunes Wheel/Images/1S3Dfg1396DVe2-wusMf.png",
-    "Turn of Fortunes Wheel/Public/Characters/Laxuelu.md",
-    "Turn of Fortunes Wheel/Images/04-03 W0 Walking Castle Map Player Version.jpg",
-    "Turn of Fortunes Wheel/Images/04-02 The Walking Castle.jpg",
     "index.md",
     "Turn of Fortunes Wheel/Private/Test File.md",
     "Turn of Fortunes Wheel/Public/Characters/Thlaarsh the Gore Drinker.md",
@@ -206,7 +207,6 @@
     "Turn of Fortunes Wheel/Public/Characters/Companions/Barry the Capybara.md",
     "Turn of Fortunes Wheel/Public/Characters/Companions/Sal the Slaad.md",
     "Turn of Fortunes Wheel/Public/Characters/Companions",
-    "Turn of Fortunes Wheel/Public/Deaths/Death Scoreboard.md",
     "Turn of Fortunes Wheel/Public/Dream Sequences/Sequences",
     "Turn of Fortunes Wheel/Public/World/Sigil/Factions/Lesser Factions",
     "Turn of Fortune's Wheel/Public/TestBoard.canvas",

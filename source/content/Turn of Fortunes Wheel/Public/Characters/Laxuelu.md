@@ -1,0 +1,1 @@
+The first caretaker of [[The Walking Castle|Iedcaru]], they stay mummified in the library. If you speak of a desire for a book or topic, the mummy's brass eyes flick to look at the location of the book within the library, if it exists.
