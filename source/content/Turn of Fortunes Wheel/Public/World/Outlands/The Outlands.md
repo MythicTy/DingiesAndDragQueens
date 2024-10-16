@@ -1,3 +1,4 @@
+![[00-02 Outlands Map.jpg]]
 # Entering the Outlands
 You entered the Outlands using a portal in a three-eye rearing horse statue. The portal was nearby to [[Automata]].
 

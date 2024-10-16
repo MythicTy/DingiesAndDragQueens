@@ -31,4 +31,13 @@ This floor contains Zaythir's study, alongside various rooms and a bathroom. The
 This room is the home of the Castellan who commands the castle. So far, you know that it only understand Gith, and only respects Zaythir. It shows a map of [[The Outlands]] or the castle and it's damages. 
 
 ![[04-03 W6 Zaythir and The Castellan.png]]
+## Fourth Floor - Meditation Chamber
+> Ancient Tapestries of the planes and cosmic alignments cover the walls of this simple room. Ladders descend to the floor below and rise to the level above.
+
+This is a simple room dedicated to meditation.
+## Fifth Floor - Signal Tower
+> Narrow windows look out from this stark stone cham- ber in every direction. In the room’s center stands a green crystal atop a stone pillar. A ladder descends to the floor below.
+
+In the centre of this room is a Gem of Brightness affixed to the tower. This can be used to signal creatures over a mile away. 
+
 ![[04-02 The Walking Castle.jpg]]
