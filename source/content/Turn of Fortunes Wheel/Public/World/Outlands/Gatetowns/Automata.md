@@ -44,7 +44,7 @@ The crushing bureaucracy of Automata meant it would take numerous days to get to
 
 > “l don’t see the harm in admitting you to the gate. Of course, I'll have to convince the rest of the Council of Order of your intentions. If you take care of something that’s been vexing us, though, that gesture of good faith could make all the difference. “There are discordant elements operating in Automata. One such individual is an outlaw named Beltha. She recently stole one of the logbooks for the Concordant Express. It contains timetables, passenger lists, manifests, and more. Recover the logbook, and I'll see to it that you can use the gate as you require. And if you bring Beltha in, I'll throw in a bonus.”
 
-And so you set off to the Inverse to find [[Beltha]]. 
+And so you set off to the Inverse to find [[Beltha]]. You were made aware that she had a distinctive cog tattoo and a hideout in The Inverse.
 # The Inverse
 
 ![[05-05 The Inverse.png]]
@@ -71,4 +71,9 @@ The prosecution was none other than the surviving kenku from earlier, claiming t
 > The Septon modron pipes up. "That seems reasonable, defendants, what do you offer as explanation?
 
 The party claimed that they couldn't possibly have been there because they were golfing with the dead three, among other statements, that eventually won them the case.
+## Beltha
+As you left court, you saw a gith woman bearing a distinctive cog tattoo - [[Beltha]]. You chased her to her hideout, where you fought her. She managed to escape. It was also here that [[Bawk]] was implanted by a Slaad Tadpole, later to burst from his chest, becoming [[Sal the Slaad]]. You continued your search for [[Beltha]], getting into a fight with her associates, before getting her location. You managed to cut a deal with her, she would help you reach the gate, and she would keep [[Turn of Fortunes Wheel/Public/Notable Items/The Concord Express Logbook|The Logbook]]. 
 
+After getting to the gate, [[Bawk]] getting [[Augh'er]] arrested, you returned to [[Beltha]]. She let you look through [[Turn of Fortunes Wheel/Public/Notable Items/The Concord Express Logbook|The Logbook]] and take notes from it, and she told you of how she had stolen it as evidence against a member of the Council of Order's corruption. This member's name was [[Isthil]], and they regularly made trips on the Concord Express (the train that takes passengers through the gate to Mechanus) and return the same day. She discovered, through the logbook, that he would always travel with a person called [[Cornelus]], a member of the [[Doomguard]]. 
+
+[[Beltha]] had also been stealing shipments from the [[Doomguard]] that had been coming into Automata, evidenced by the crates in her safehouse. [[Turn of Fortunes Wheel/Public/Notable Items/The Concord Express Logbook|The Logbook]] contained other useful information, which you can read about in it's entry.
