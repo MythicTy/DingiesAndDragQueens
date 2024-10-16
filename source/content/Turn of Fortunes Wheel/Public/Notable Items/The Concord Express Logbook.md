@@ -1,6 +1,7 @@
 ---
 aliases:
   - The Logbook
+  - The Concord Express
 ---
 The Logbook contained a lot of useful information that you looked up, listed below. It is currently in [[Beltha]]'s possession.
 
