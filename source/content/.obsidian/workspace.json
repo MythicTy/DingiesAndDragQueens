@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Deaths/Death Scoreboard.md",
+                "file": "Turn of Fortunes Wheel/Public/Characters/Thlaarsh the Gore Drinker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Deaths/Death Scoreboard.md",
+                "file": "Turn of Fortunes Wheel/Public/Characters/Thlaarsh the Gore Drinker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Deaths/Death Scoreboard.md",
+                "file": "Turn of Fortunes Wheel/Public/Characters/Thlaarsh the Gore Drinker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/Deaths/Death Scoreboard.md"
+                "file": "Turn of Fortunes Wheel/Public/Characters/Thlaarsh the Gore Drinker.md"
               }
             }
           },
@@ -156,11 +156,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2555171eabe0d0b5",
+  "active": "5731fdc4dad80366",
   "lastOpenFiles": [
+    "Turn of Fortunes Wheel/Images/nycaloth.jpg",
+    "Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle, Iedcaru.md",
+    "Turn of Fortunes Wheel/Public/Characters/Thlaarsh the Gore Drinker.md",
     "Turn of Fortunes Wheel/Public/Characters/Sigil/Shemeshka.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Lady's Ward/Fortune's Wheel.md",
     "Turn of Fortunes Wheel/Public/World/Outlands/The Outlands.md",
+    "Turn of Fortunes Wheel/Images/04-01 The Outlands.jpg",
+    "Turn of Fortunes Wheel/Images/04-01 The Outlands 2.png",
+    "Turn of Fortunes Wheel/Public/Session Recaps/Session 22 - Tuesday 8th October.md",
+    "Turn of Fortunes Wheel/Public/Characters/Companions/Clocksworth.md",
+    "Turn of Fortunes Wheel/Public/Characters/Companions/Barry the Capybara.md",
+    "Turn of Fortunes Wheel/Public/Characters/Companions/Sal the Slaad.md",
+    "Turn of Fortunes Wheel/Images/01-01 M0 Mortuary Basement Map Player Version.jpg",
+    "Turn of Fortunes Wheel/Public/Characters/Companions",
+    "Turn of Fortunes Wheel/Public/Deaths/Death Scoreboard.md",
     "Turn of Fortunes Wheel/Public/Characters/R04M.md",
     "Turn of Fortunes Wheel/Public/Characters/Sigil/Winter's Bite.md",
     "Turn of Fortunes Wheel/Images/Shemeshka's Letter.png",
@@ -179,23 +191,12 @@
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Clerk's Ward/Civic Festhall.md",
     "Turn of Fortunes Wheel/Images/02-07 Clerks Ward.png",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/The Great Bazaar.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Factions/Lesser Factions/Coterie of Cakes.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Factions/Lesser Factions",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Notable Encounters/Send a Squeak.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Hive Ward/The Gatehouse.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Hive Ward/Fell's Tattoos.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Records.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Clerk's Ward/Hall of Information.md",
-    "Turn of Fortunes Wheel/Public/World/Planes/Elemental Planes/Muspelforge.md",
-    "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Rigus.md",
-    "01-01 M0 Mortuary Basement Map Player Version 1.jpg",
-    "01-01 M0 Mortuary Basement Map Player Version.jpg",
+    "Turn of Fortunes Wheel/Images/01-01 M0 Mortuary Basement Map Player Version 1.jpg",
     "Turn of Fortunes Wheel/Images/Modrons-mechanus-5e.webp",
     "Turn of Fortunes Wheel/Images/monodrone.jpg",
     "Turn of Fortunes Wheel/Images/02-00 Lady of Pain.jpg",
     "Turn of Fortunes Wheel/Images/02-03 Fell.png",
-    "Turn of Fortunes Wheel/Images/01-02 Darkweaver.png",
-    "Turn of Fortunes Wheel/Images/Efreeti.webp",
     "Turn of Fortune's Wheel/Public/TestBoard.canvas",
     "Turn of Fortunes Wheel/Public/Characters/PCs",
     "Turn of Fortunes Wheel/Public/Characters/Sigil",
@@ -206,7 +207,6 @@
     "Turn of Fortunes Wheel/Private/The Plot and Edits.canvas",
     "ToFW/Private/Session Prep/Session 23/Untitled.canvas",
     "Turn of Fortunes Wheel/Private/Session Prep/Session 23",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil/Encounters",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil"
+    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil/Encounters"
   ]
 }

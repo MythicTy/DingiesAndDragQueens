@@ -37,7 +37,7 @@ She reassured you all after you questioned her intentions.
 
 > - "My intentions are none of your concern, but I commend the caution; it's rarely wise to trust a fiend. But I assure you, my line of work thrives off of mutual distrust. What difference does it make if both parties get what they want? To sweeten the deal, I'll offer you 300 gold pieces each, upfront."
 
-She was also aware that you were barred from a few locations, and promised that her agents would gather information from your pasts whilst you searched for her rogue accountant. She passed you a piece of lapis lazuli shaped like an eye, explaining it to be a portal key that leads to [[The Outlands]], near [[Automata]]. The portal was a rearing horse statue located in the Lady's Ward. She then excused herself to go and set off her agents to dig up information for you, and warned you not to gamble all of the 300gp away.
+She was also aware that you were barred from a few locations, and promised that her agents would gather information from your pasts whilst you searched for her rogue accountant, [[R04M]]. She passed you a piece of lapis lazuli shaped like an eye, explaining it to be a portal key that leads to [[The Outlands]], near [[Automata]]. The portal was a rearing horse statue located in the Lady's Ward. She then excused herself to go and set off her agents to dig up information for you, and warned you not to gamble all of the 300gp away.
 
 Throughout this entire conversation, she appeared composed and cordial, confident and sophisticated, and didn't appear pretentious or insincere. She seemed to really care to help you all out.
 
