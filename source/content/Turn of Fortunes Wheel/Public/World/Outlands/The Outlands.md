@@ -5,7 +5,7 @@ You entered the Outlands using a portal in a three-eye rearing horse statue. The
 
 > Much farther in the distance, an impossibly tall stone spire stretches from the horizon into the clouds.
 
-Following the impact divots, you found [[The Walking Castle, Iedcaru]].
+Following the impact divots, you found [[The Walking Castle]].
 
 ![[04-01 The Outlands 2.png]]![[04-01 The Outlands.jpg]]
 # Beliefs in the Outlands

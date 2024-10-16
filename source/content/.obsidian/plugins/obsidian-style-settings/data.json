@@ -3,5 +3,6 @@
   "ITS@@t-d": false,
   "ITS@@drwn": false,
   "ITS@@nord": false,
-  "ITS@@its-d": false
+  "ITS@@its-d": false,
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve"
 }
