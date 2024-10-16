@@ -36,8 +36,8 @@ This room is the home of the Castellan who commands the castle. So far, you know
 
 This is a simple room dedicated to meditation.
 ## Fifth Floor - Signal Tower
-> Narrow windows look out from this stark stone cham- ber in every direction. In the room’s center stands a green crystal atop a stone pillar. A ladder descends to the floor below.
+> Narrow windows look out from this stark stone chamber in every direction. In the room’s centre stands a green crystal atop a stone pillar. A ladder descends to the floor below.
 
-In the centre of this room is a Gem of Brightness affixed to the tower. This can be used to signal creatures over a mile away. 
+In the centre of this room is a Gem of Brightness affixed to the tower. The light of this gem can be seen over a mile away.
 
 ![[04-02 The Walking Castle.jpg]]
