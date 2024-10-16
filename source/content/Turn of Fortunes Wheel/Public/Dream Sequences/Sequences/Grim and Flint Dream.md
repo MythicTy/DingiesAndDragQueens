@@ -4,7 +4,7 @@ Augh'er awoke to hearing footsteps above him.
 > 
 > This castle, however. It seems like their main mode of transport, so if something were to happen to it, they would be a lot less likely to keep interfering in our plans. We need to keep them in the outlands until I can find a more... permanent solution than these resplendent cages."
 > 
-> "You got it boss. We picked up some… ~fireworks~ from automata. I’m sure they’ll do the tricks. And- what happened in Automata was fluke, it won't happen again. It’s the big guy’s fault.” You hear a grunt in protest.
+> "You got it boss. We picked up some… *fireworks* from automata. I’m sure they’ll do the tricks. And- what happened in Automata was fluke, it won't happen again. It’s the big guy’s fault.” You hear a grunt in protest.
 > 
 > “Has Skall had any solutions by the way?"
 > 
