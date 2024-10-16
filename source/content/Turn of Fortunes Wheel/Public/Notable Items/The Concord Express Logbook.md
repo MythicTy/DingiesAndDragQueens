@@ -2,7 +2,7 @@
 aliases:
   - The Logbook
 ---
-The Logbook contained a lot of useful information that you looked up, listed below.
+The Logbook contained a lot of useful information that you looked up, listed below. It is currently in [[Beltha]]'s possession.
 
 It is useful to note that the modrons keep track of significantly more years than most of Sigil does, despite not falling out of sync with them. The various months have an effect on the nature of the Outlands, and the weather. Each month represents the different Outer Planes. [See here for more info about timekeeping in The Outlands.](https://rilmani.org/timaresh/Outlands_calendar)
 ## Important Dates
