@@ -1,1 +1,1 @@
-Owner of [[The Ubiquitous Wayfairer]]. 
+Owner of [[The Lower Ward|The Ubiquitous Wayfairer]]. 

@@ -1,0 +1,1 @@
+Home of [[Fortune's Wheel]], which has it's own page.

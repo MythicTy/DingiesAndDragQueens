@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil.md",
+                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Fortune's Wheel.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil.md",
+                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Fortune's Wheel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil.md",
+                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Fortune's Wheel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil.md"
+                "file": "Turn of Fortunes Wheel/Public/World/Sigil/Fortune's Wheel.md"
               }
             }
           },
@@ -165,16 +165,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2555171eabe0d0b5",
+  "active": "5731fdc4dad80366",
   "lastOpenFiles": [
+    "Turn of Fortunes Wheel/Public/World/Sigil/The Wards/The Lady's Ward.md",
+    "Turn of Fortunes Wheel/Public/World/Sigil/The Wards/The Lower Ward.md",
+    "Turn of Fortunes Wheel/Public/World/Sigil/The Wards/The Hive Ward.md",
+    "Turn of Fortunes Wheel/Public/World/Sigil/The Wards/The Ubiquitous Wayfairer.md",
+    "Turn of Fortunes Wheel/Public/Characters/Sigil/Riaen Blackhome.md",
+    "Turn of Fortunes Wheel/Public/World/Sigil/Fortune's Wheel.md",
+    "Turn of Fortunes Wheel/Public/World/Sigil/The Wards/Undersigil.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Twisted Tea Party.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Sire Oliver and the Rats.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Kazaan's Advisor.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Undersigil/Encounters/Stuffed Rat.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Factions/Lesser Factions/Coterie of Cakes.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/The Market Ward.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/The Hive Ward.md",
+    "Turn of Fortunes Wheel/Public/World/Sigil/The Wards/The Market Ward.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Lady's Ward/Untitled",
     "Turn of Fortunes Wheel/Public/World/Sigil/Locations/Market Ward/The Great Bazaar/Encounters/Felicity's Threads.md",
     "Turn of Fortunes Wheel/Public/Characters/Sigil/Felicity.md",
@@ -189,11 +194,6 @@
     "Turn of Fortunes Wheel/Public/Characters/Sigil/Morte.md",
     "Turn of Fortunes Wheel/Public/Characters/Faction Members/Heralds of Dust/Jex.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/Factions/Heralds of Dust.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/The Lower Ward.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/The Armoury.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Locations/The Ubiquitous Wayfairer.md",
-    "Turn of Fortunes Wheel/Public/Characters/Faction Members/Doomguard/Doomlord Abraxis.md",
-    "Turn of Fortunes Wheel/Public/World/Sigil/Factions/Doomguard.md",
     "Turn of Fortunes Wheel/Images/05-05 The Inverse.png",
     "Turn of Fortunes Wheel/Public/Characters/The Outlands",
     "Turn of Fortunes Wheel/Images/1S9N8z1Jzk9q2O-9tYAE.png",
