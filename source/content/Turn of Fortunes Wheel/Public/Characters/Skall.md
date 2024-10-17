@@ -1,1 +1,1 @@
-You do not know much about this character, other than hearing their name mentioned a few times. Notably, in [[Grim and Flint Dream|Grim and Flint Dream]].
+You do not know much about this character, other than hearing their name mentioned a few times. Notably, in the [[Grim and Flint Dream|Grim and Flint Dream]].

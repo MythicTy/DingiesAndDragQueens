@@ -12,7 +12,8 @@ Generally consists of entropists, soldiers, and weaponsmiths.
 - [[Kazaan]]
 - [[Doomlord Abraxis]]
 - [[Aslan Ashfang]], who gave a quest to [[Bawk]] and aided your group out of boredom
-- [[Sirus, Kazaan's Advisor]]
+- [[Sirus]], Kazaan's Advisor
+- [[Cornelus]], who was meeting [[Councillor Isthil]] in [[Automata]]
 # Epithet
 The Doomguard are colloquially referred to as the Sinkers.
 # Aligned Plane

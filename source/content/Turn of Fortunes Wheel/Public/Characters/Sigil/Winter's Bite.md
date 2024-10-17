@@ -1,0 +1,1 @@
+You met Winter's Bite in [[Fortune's Wheel]]. He had gambled all his horde away, leading him to rampage through the casino and made his way to the stage. One thing led to another, and [[Bawk]] and [[Thistle]] were on stage performing a metal concert with him. Since then, you have heard rumours of his budding career in Sigil, but have yet to encounter him again.

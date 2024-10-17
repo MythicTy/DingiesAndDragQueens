@@ -14,6 +14,6 @@ You fought the [[Coterie of Cakes]], a forgotten faction. They were gorging them
 
 You found a Portal Compass here.![[02-12 Caker Tea Party.png]]![[02-12 Vargouille Reflection.png]]
 # Kazaan's Advisor
-You met [[Sirus, Kazaan's Advisor]], here.
+You met [[Sirus]], here.
 # Sire Oliver and the Rats
 You encounted [[Sire Oliver]] the Twisted here for the second time. He was doing something with the cranium rats that infested Undersigil; what that was, you're unsure. He escaped again.

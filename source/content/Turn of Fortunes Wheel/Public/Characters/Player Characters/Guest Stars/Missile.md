@@ -1,0 +1,1 @@
+You met Missile in [[Automata]], during a glitching Modron March. He was a 4th variant of Thistle; whereas Thistle is a Warlock, Missile was a Barbarian who throws his spear at people.
