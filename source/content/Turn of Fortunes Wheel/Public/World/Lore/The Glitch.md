@@ -13,7 +13,7 @@ Your party are not the only ones who suffers from the Glitch. [[Grim and Flint]]
 
 Recently, the Glitch has been worsening. [[The Outlands]] experienced earthquakes that caused you to be racked by the unimaginable pain of all your death wounds from your different variants. [[Bawk]] felt it the worst, due to his (at the time) 32 deaths. From this point, your deaths have been more exhausting than usual. 
 
-There is also a theme of the Glitch leaving dead [[sunflies]] in its wake. The two times you have experienced these earthquakes has left fields of the insects dead.
+There is also a theme of the Glitch leaving dead [[The Outlands|sunflies]] in its wake. The two times you have experienced these earthquakes has left fields of the insects dead.
 
 > At that same time, you feel... a shaking. Like the tremors of an earthquake.
 
