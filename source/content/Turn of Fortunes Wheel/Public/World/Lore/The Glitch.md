@@ -7,7 +7,7 @@ aliases:
 ---
 The crux of the campaign, and the thing you are adventuring to discover the origins of. The Glitch makes it so that when you die, your corpse disappears, and nearby appears an alternate variant of yours. Your memories do not carry over through this process, and each variant remembers up until it's death.
 
-You fail to remember much up until you awoke in [[The Hive Ward|The Mortuary]], your memories fragmented and lost. 
+You fail to remember much up until you awoke in [[The Hive Ward|The Mortuary]], your memories fragmented and lost. Alongside these memory losses are strange dreams. Each night, you dream of being trapped in a crystal. On a few occasions, you have gained lucidity. You can read more about these in the [[Turn of Fortunes Wheel/Public/Dream Sequences/index|Dream Sequences]] entries.
 
 Your party are not the only ones who suffers from the Glitch. [[Grim and Flint]] do, but seem not to suffer from the same amnesia that you do. Various other objects and locations also seem to Glitch, and the landscape of [[The Outlands]] seems to regularly Glitch to appear like [[The Blood War]].
 

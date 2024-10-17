@@ -110,4 +110,4 @@ You met [[Fell]] here, as it is his establishment. He welcomed [[Uthal]] back, a
 # The Gatehouse
 > The Gatehouse, the home of the Bleak Cabal and a fortress of rehabilitation and renewal. The tiered, ivory sanctuary rests on a hill at the end of Bedlam Run, a curved road that rises to meet the entrance. Calming fountains cascade over its chalk white balconies, which radiates from the central tower.
 
-You visited here after invited by [[Pugdug]] in an attempt to help you with your Glitch. The Gatehouse is the home of the Bleak Cabal, and is full of community kitchens, hospital wards, and rest sites for the sick, injured, and afflicted.
+You visited here after invited by [[Pugdug]] in an attempt to help you with your [[The Glitch|Glitch]]. The Gatehouse is the home of the Bleak Cabal, and is full of community kitchens, hospital wards, and rest sites for the sick, injured, and afflicted.

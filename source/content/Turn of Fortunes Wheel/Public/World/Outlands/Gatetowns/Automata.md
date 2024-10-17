@@ -4,7 +4,7 @@
 
 > Rigid beings move purposefully through Automata’s perfect street grid. Most travel in sync with the reverberating rhythm of the great, toothed gear that rises like an arch at the gate-town’s centre. As you near the community, your mimir rattles energetically, and the glow in its eye sockets pulses in time with the pervasive ticking.
 
-You arrived in Automata first, after travelling in [[The Walking Castle]] for a handful of days. You set to work looking for [[R04M]] and getting directions to the gate. As you did this, you encountered a glitching version of [[The Great Modron March]] which clogged up the traffic in Automata.
+You arrived in Automata first, after travelling in [[The Walking Castle]] for a handful of days. You set to work looking for [[R04M]] and getting directions to the gate. As you did this, you encountered a [[The Glitch|glitching]] version of [[The Great Modron March]] which clogged up the traffic in Automata.
 
 > You begin to hear a feint, rhythmic thud of footsteps, in tune with the great cog that rotates in the distant centre of automata. After a moment, you begin to see a large procession of modrons, marching through the streets of Automata, towards the front gate that you just passed through moments ago. After a few more moments, the line of modrons marches past you, out of the gate and into the Outlands.
 
@@ -14,7 +14,7 @@ Upon closer inspection, the modrons all seemed to be terrified of something, loo
 # Missile
 > As the march progresses, a figure, taller that the rest, comes into view. They are no modron - they are twice the height. They are not brass nor bronze, but instead mahogany wood with various leaves, and they march aimlessly alongside these modrons as if they are one of them.
 
-This was [[Missile]], a 4th variant of [[Thistle]], who had glitched into existence. [[Thistle]], confused, began interacting with his variant and pulling him out of the march.
+This was [[Missile]], a 4th variant of [[Thistle]], who had [[The Glitch|glitched]] into existence. [[Thistle]], confused, began interacting with his variant and pulling him out of the march.
 # Grim, Flint, and Augh'er
 As [[Thistle]] interacted with [[Missile]], the rest of you heard commotion coming from round the corner.
 
@@ -54,7 +54,7 @@ Whilst here, the party where accosted by three kenku who were very interested in
 ## Hat
 You encountered a green slaad who was enamoured by Bawk's pink hat, and kept trying to steal it, following your group before you gave him an adequate replacement hat.
 ## "The Glitch Is Nigh!"
-You came across a small modron holding a cardboard sign that read "The Glitch Is Night!" He chanted that "The Great Multiversal Alignment is coming!" You asked him what he meant, and he picked up a ball and threw it, it glitching back to his hand.
+You came across a small modron holding a cardboard sign that read "[[The Glitch]] Is Night!" He chanted that "The Great Multiversal Alignment is coming!" You asked him what he meant, and he picked up a ball and threw it, it glitching back to his hand.
 ## Taken to Court
 > Approaching behind you, you hear a chaotic arrangement of footsteps. You turn round to see 3 pentadrones and a decaton modron, the same amount and type as guarding the gate above, but much less organised.
 
