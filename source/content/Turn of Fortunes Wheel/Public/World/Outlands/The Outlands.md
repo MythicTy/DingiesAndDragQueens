@@ -18,5 +18,7 @@ Following the impact divots, you found [[The Walking Castle]].
 It is theorised that the Outlands is shaped by belief. If enough people believe it to be so, it might become so. However, this is near impossible to prove, as being aware of the fact you believe something makes it so that you don't truly believe it. Maybe the Outlands is shaped by belief because enough people believe it is? 
 # Sunflies
 > Sunflies are the natural indicator species of the Outlands. What this means is that the health of the Sunflies, and the health of their populations, are a direct reflection of the health of the Outlands and the various ecosystems within it. When Sunflies prosper, so does the Outlands. When Sunflies struggle, then so does the Outlands.
+
+Sunflies are particularly susceptible to planar energies. Sunflies that hang out near the lower planes sting with fire-y energy, whereas upper planar sunflies may blind your or make you shed bright light. Their colours tend to resemble the energies that they are filled with, but some may differ. 
  
 ![[07-01 Sunflies.png]]
