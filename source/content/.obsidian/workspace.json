@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turn of Fortunes Wheel/Public/World/Lore/The Blood War.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Blood War"
+              "title": "index"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "active": "5731fdc4dad80366",
   "lastOpenFiles": [
+    "Turn of Fortunes Wheel/Public/World/Lore/The Blood War.md",
     "Turn of Fortunes Wheel/Public/Dream Sequences/index.md",
     "Turn of Fortunes Wheel/Public/World/Lore/The Glitch.md",
     "Turn of Fortunes Wheel/Public/World/Sigil/The Wards/The Hive Ward.md",
@@ -186,7 +187,6 @@
     "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md",
     "Turn of Fortunes Wheel/Public/Characters/Faction Members/Bleak Cabal/Althax Darkfleece.md",
     "Turn of Fortunes Wheel/Public/World/Lore/The Great Modron March.md",
-    "Turn of Fortunes Wheel/Public/World/Lore/The Blood War.md",
     "Turn of Fortunes Wheel/Public/World/Lore/Sunflies.md",
     "Turn of Fortunes Wheel/Images/07-01 Sunflies.png",
     "Turn of Fortunes Wheel/Public/World/Sigil/Notable Encounters/Bloody Glitches.md",
