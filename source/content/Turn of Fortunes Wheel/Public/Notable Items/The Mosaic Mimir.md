@@ -8,7 +8,7 @@ The Mosaic Mimir is damaged, and holds information that is currently inaccessibl
 - [x] [[Automata]]
 - [ ] [[Curst]]
 - [x] [[Excelsior]]
-- [ ] [[Faunel]]
+- [x] [[Faunel]]
 - [ ] [[Glorium]]
 - [ ] [[Rigus]]
 - [ ] [[Sylvania]]

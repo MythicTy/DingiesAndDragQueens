@@ -30,3 +30,4 @@
 30. Died to the Glitch Earthquake
 31. Died to Uthal and Kazaan
 32. Hit the ground too hard (after being dropped by a massive bird)
+33. Executed by Sal the Slaad in showcase to Thistle's Patron

@@ -14,6 +14,6 @@ Augh'er awoke to hearing footsteps above him.
 
 ###### References
 [[Grim and Flint]]
-[[Augh'er]]
+[[Turn of Fortunes Wheel/Public/Characters/Player Characters/Augh'er]]
 [[Automata]]
 [[Skall]]
