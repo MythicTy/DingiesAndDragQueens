@@ -1,1 +1,1 @@
-You have encounter the occasional member, but not learnt anything about them yet.
+You have encountered the occasional member, but not learnt anything about them yet.
