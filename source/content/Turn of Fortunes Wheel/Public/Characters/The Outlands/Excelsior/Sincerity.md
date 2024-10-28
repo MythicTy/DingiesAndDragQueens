@@ -1,0 +1,1 @@
+A tiefling woman from [[Excelsior]]. She was kidnapping people using magic jars and sending them to [[Uncle Longteeth]] to turn into Soul Larva.

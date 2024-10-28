@@ -1,0 +1,1 @@
+You killed her in her lair in [[The Outlands]]. She was turning people into Soul Larva, including kidnapped children.

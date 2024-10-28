@@ -1,0 +1,1 @@
+A hound archon and member of the town guard of [[Excelsior]]. He hired you to help prove [[Sincerity]]'s guilt in a bunch of recent disappearances.

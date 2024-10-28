@@ -1,0 +1,1 @@
+A night hag outside of [[Excelsior]]. He was turning kidnapped people into Soul Larva by sending them to [[Mistress Margrice]].
