@@ -7,3 +7,4 @@ This is the home of anything available to players in Dingies and Drag Queens. If
 - [GitHub Page](https://github.com/MythicTy/DingiesAndDragQueens)
 - [Sane Magic Item Prices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA)
 	- Prices may vary depending on the availability and location
+- [Dargons and Dungins Wiki](https://skeleton550.github.io/DargonsAndDungins/)
