@@ -14,7 +14,7 @@ You were greeted by a lantern archon named Blibly who welcomed you to Excelsior.
 
 > "The portal to Mount Celestia is atop the Godstrand. The climb is about 18 minutes. Can I offer you some water for the journey? Hot day today."
 # The Godstrand
-The portal to Mount Celestia is atop the Godstrand, an 18 minute climb up the staircase. The walls of the Godstrand are adorned with various mosaics and depictions of various gods. [[Uthal]] saw differently, however. 
+The portal to Mount Celestia is atop the Godstrand, an 18 minute climb up the staircase. The walls of the Godstrand are adorned with various mosaics and depictions of various gods. [[Turn of Fortunes Wheel/Public/Characters/Player Characters/Uthal]] saw differently, however. 
 ## Uthal's Haunting
 He saw flashbacks in the mosaic of atrocities he had committed in life. 
 
@@ -28,7 +28,7 @@ He saw a memory of a bloody pulp he remembered to be a man, cowering family in t
 
 The visions ended in the worst of the bunch. A child, attempting to protect their parent, being pushed over, blood pooling around their head. 
 
-These visions left [[Uthal]] exhausted, unable to continue moving up the Godstrand. He was found by a Wardon Archon, broken down on the stairs. He was removed from the tower and given first aid.
+These visions left [[Turn of Fortunes Wheel/Public/Characters/Player Characters/Uthal]] exhausted, unable to continue moving up the Godstrand. He was found by a Wardon Archon, broken down on the stairs. He was removed from the tower and given first aid.
 ## Atop The Godstrand
 Bawk and Thistle left the rest of the party behind and ascended the tower. 
 

@@ -96,7 +96,7 @@ You encountered [[Parisa]] here, who offered to show you around the city for a s
 
 ![[02-01 Grease Pit.png]]
 # Fell's Tattoos
-You met [[Fell]] here, as it is his establishment. He welcomed [[Uthal]] back, as he had done many of his tattoos in the past. He can offer his services to people for gold.
+You met [[Fell]] here, as it is his establishment. He welcomed [[Turn of Fortunes Wheel/Public/Characters/Player Characters/Uthal]] back, as he had done many of his tattoos in the past. He can offer his services to people for gold.
 ## Services
 - 10gp:
     - Grants access to the Fell's Tattoo feat

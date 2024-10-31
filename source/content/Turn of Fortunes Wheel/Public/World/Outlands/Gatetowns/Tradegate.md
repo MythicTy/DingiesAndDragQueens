@@ -21,7 +21,7 @@ As your begun exchanging currencies, the ground began to rumble as a [[Xorn]] gl
 The creature was going for the vault, looking to "shop". The guards sprinted after it, you in tow. You found it inside the vault, scooping gems and gold into it's mouth. The guards attempted to stop it, but it just swatted their spears out of their hands. It then eventually escaped, gliding smoothly through the floor of the vault downwards.
 
 ![[638063939544338029.png]]
-# Solving The Problem
+# Xorn Is Hungry!
 You were joined by [[Baristus Silver]], who exclaimed that it was the 3rd time this week. He hired your party to get to the bottom of this. It was in your best interest to, since you couldn't shop without converting your currency, and the Mint was closed until the Xorn situation was dealt with.
 
 You went to Manyroads' Maps, a tower owned by [[Melvin Manyroads]], to discover if there were any cave systems below the town.

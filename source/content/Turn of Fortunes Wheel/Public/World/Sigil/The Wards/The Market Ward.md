@@ -36,7 +36,7 @@ Many interesting events happening here. You started your stop with some shopping
 
 > The hobgoblin goes about her shopping, a sly smile of excitement on her face as she peruses the weapons on display in a nearby stall.
 
-You met [[Major Nirra Kalar]] here. She was bringing her troop on shore leave from Rigus to shop for equipment. She recognised [[Uthal]] as he, alongside [[Grim and Flint]], attempted to extort money from her soldiers.
+You met [[Major Nirra Kalar]] here. She was bringing her troop on shore leave from Rigus to shop for equipment. She recognised [[Turn of Fortunes Wheel/Public/Characters/Player Characters/Uthal]] as he, alongside [[Grim and Flint]], attempted to extort money from her soldiers.
 
 > The hobgoblin woman turns and does a double-take at your party and immediately starts to stride toward you, locking eyes with Uthal. "My, my. If it isn't the runt who tried to threaten my men for tax. You're lucky its busy here, because, if I remember correctly, I said I'd put my sword through your chest if I ever saw you again. Surprised you're not with your two little buddies." She puts her hand firmly and tensely on the top of your sword at her waist. "Still tempted to run you through right now, why shouldn't I?"
 
