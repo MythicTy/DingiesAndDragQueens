@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Vecna Eve of Ruin/Private/Next Session Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next Session Notes"
+            }
+          },
+          {
+            "id": "233e0897ac8e60da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,21 +190,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5731fdc4dad80366",
+  "active": "233e0897ac8e60da",
   "lastOpenFiles": [
-    "Turn of Fortunes Wheel/Private/Characters/PCs/Uthal.md",
+    "Vecna Eve of Ruin/Private/Next Session Notes.md",
+    "index.md",
+    "Vecna Eve of Ruin/Private/Character Sheet Notes.md",
+    "Vecna Eve of Ruin/Private/Secrets.md",
     "Vecna Eve of Ruin/Private/Shattered Temple.md",
+    "Turn of Fortunes Wheel/Private/Characters/PCs/Uthal.md",
     "Turn of Fortunes Wheel/Public/Notable Items/The Mosaic Mimir.md",
     "Turn of Fortunes Wheel/Private/Session Prep/Session 25.canvas",
     "Turn of Fortunes Wheel/Private/Faunel.md",
     "Turn of Fortunes Wheel/Private/Characters/Ebonclaw.md",
     "Turn of Fortunes Wheel/Private/Characters/Ophelia.md",
     "Turn of Fortunes Wheel/Private/Session Prep/Session 24.canvas",
-    "Vecna Eve of Ruin/Private/Character Sheet Notes.md",
     "Turn of Fortunes Wheel/Private/The Nursery.md",
-    "Vecna Eve of Ruin/Private/Next Session Notes.md",
     "Vecna Eve of Ruin/Private/Beliefs.md",
-    "Vecna Eve of Ruin/Private/Secrets.md",
     "Vecna Eve of Ruin/Private/Backstory.md",
     "Vecna Eve of Ruin/Private/Notes/Web's Edge.md",
     "Vecna Eve of Ruin/Private/Notes/People We Had To Rescue.md",
@@ -197,7 +213,6 @@
     "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Tradegate.md",
     "Turn of Fortunes Wheel/Private/Sylvania.md",
     "Vecna Eve of Ruin/Private/NeonCharacterArt.png",
-    "index.md",
     "Turn of Fortunes Wheel/Public/World/Outlands/The Outlands.md",
     "Turn of Fortunes Wheel/Public/Characters/The Outlands/Laxuelu.md",
     "Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Excelsior.md",
