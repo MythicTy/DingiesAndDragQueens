@@ -1,0 +1,1 @@
+The captain of [[Automata]]'s town guard and a member of the Council of Order. He offered you access to the town's gate if you found [[Beltha]] and returned [[DnD/Turn of Fortunes Wheel/Public/Notable Items/The Concord Express Logbook|The Logbook]]. You initially accepted this offer, but then decided to side with [[Beltha]] later on.

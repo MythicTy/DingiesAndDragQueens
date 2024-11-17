@@ -1,1 +1,0 @@
-A member of the [[Doomguard]] that [[Councillor Isthil]] had been meeting with aboard [[Turn of Fortunes Wheel/Public/Notable Items/The Concord Express Logbook|The Concord Express]] in [[Automata]]. You do not know anything more about this person.
