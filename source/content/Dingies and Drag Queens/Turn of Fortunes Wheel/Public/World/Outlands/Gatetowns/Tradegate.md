@@ -84,3 +84,22 @@ You did not discover who his sponsor was.
 ## Scrying
 It was during this segment that you discovered you were being scried upon. When you questioned [[Erasimus Astralbeard|Erasimus]], he assured you it wasn't him, even under a Zone of Truth.
 # Bawk's Genie Contract
+[[Bawk]] was tasked with killing [[Kabril Sahaar]] for [[Aslan Ashfang]] in [[The Lower Ward|The Armoury]]. You arrived at his shop, Windwaker Weaponry, and were greeted by the genie.
+
+> The shop is shaped like a stereotypical genie lamp, with a large sign above the door labelling it as "Windwaker Weaponry"
+
+> Entering the shop, you feel a light breeze. The air is cool and fresh inside. Columns of weaponry line the walls of this small shop, from glaives to sickles to bows, each uniquely decorated with various symbols depicting wind, storms, etc. Each shine with a slight blue tint.
+
+> As you gawk at the selection, the wind in the room begins to whip and pick up, swirling like a cyclone centred behind the counter. The wind coalesces into the form of a pale blue skinned man. He exudes pride and aristocracy, with a white turban and an impressive black beard. His chest is exposed, covered only by sleeveless, open red vest. On his person are multiple daggers secured around his waist, a scimitar on his back and one holstered to his hip. He stands holding an ornate spear with a red standard hanging from it.
+
+[[Bawk]] started a fight which [[Kabril Sahaar]] quickly ended, murdering him. Uthal and Kazaan forced the genie to retreat into his vessel where he quickly healed and returned. Bawk, having respawned, decided to be diplomatic and attempt to negotiate with the genie. He tasked you with destroying a [[Doomguard]] warehouse and returning to him. Once you had done that, he would agree to talk to you.
+
+> The Doomguard are not subtle about their contempt for rival competition. You are not the first, and I doubt you'll be the last. However, you can deal a pretty hurtful blow to them and it would get them off my back for a while. They head a warehouse in Tradegate. You're welcome to cause a scene big enough that I'll notice from here, or you do something quietly and bring me back proof. The warehouse is your sandbox.
+## Doomguard Warehouse
+The warehouse was an imposing compound surrounded with barbed wire fences and numerous guards. [[Bawk]] decided to infiltrate, disguising himself as an inspector and talking his way in, as Uthal and Kazaan waited outside. He discovered that the warehouse was storing weaponry imported from [[The Lower Ward|The Armoury]] and [[Muspelforge]], and that there were many similar warehouses in [[Excelsior]], [[Automata]], [[Ribcage]], and [[Plague-mort]]. They were receiving shipments regularly due to high production at the time. 
+
+Looking to blow the place up, Bawk set off a bomb using some smokepowder aquired earlier in the day, leaving half of the warehouse smouldering. Uthal and Kazaan then rushed in to destroy more of the warehouse, starting a fight. Bawk respawned and joined in. 
+## Returning to the Genie
+[[Kabril Sahaar]] thanked you for the service, and upgraded one of [[Bawk]]'s scimitars. He also offered to assist in killing [[Aslan Ashfang]] and gave Bawk a sending stone to contact him with. He warned to contact him before you returned to Sigil, as he could not teleport to you if you were in Sigil. 
+
+> "My, my. You actually survived. Perhaps there is an opportunity for us to work together after all. But first, my gratitude for dealing with the Doomguard. They do not like competition, and I do not like their competition."
