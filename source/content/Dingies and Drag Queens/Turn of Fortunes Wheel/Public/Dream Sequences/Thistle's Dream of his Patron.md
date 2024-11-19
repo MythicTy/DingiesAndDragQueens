@@ -5,3 +5,5 @@
 > The voice is familiar, usually its calm and gentle, it is not this time. She speaks with urgency in her voice. "Can't reach you, can't teleport you, you're missing. Invaders, poachers, fire. Return. Please."
 
 > Thunder cracks again to your left and your thrown to the side, starting awake. You're lying on the cold floor of the walking castle. Lightning strikes again and the walls of the castle shake and you're tossed to the other side as the floor begins to tip. These are not lighting strikes, they're explosions.
+###### References
+[[Iris]]

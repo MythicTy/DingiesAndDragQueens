@@ -8,7 +8,7 @@ The Mosaic Mimir is damaged, and holds information that is currently inaccessibl
 - [x] [[Automata]]
 - [ ] [[Curst]]
 - [x] [[Excelsior]]
-- [x] [[Faunel]]
+- [x] [[Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Faunel]]
 - [ ] [[Glorium]]
 - [ ] [[Rigus]]
 - [ ] [[Sylvania]]
