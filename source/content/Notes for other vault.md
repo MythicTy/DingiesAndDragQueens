@@ -14,3 +14,4 @@ The next player can call a lie
 If they call wrong they shoot, if they call right the liar shoots
 If someone empties their hand without a lie called they’re safe
 Last one with card remaining in their hand must shoot
+Rotate dealer 
