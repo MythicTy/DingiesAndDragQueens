@@ -1,5 +1,3 @@
-# Appendix E: The World of Drakkenheim
-
 This chapter describes the wider world surrounding Drakkenheim. This material is meant to provide additional ideas for players creating characters adventuring in Drakkenheim, and useful background information to help Game Masters understand the context behind the conflicts in the ruined city. Perhaps it might also inspire future adventures!
 
 ![[Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/179-14-001.sharpen.webp]]
