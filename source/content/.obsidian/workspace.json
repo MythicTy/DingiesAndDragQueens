@@ -11,27 +11,63 @@
             "id": "5731fdc4dad80366",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 25.canvas",
+                "viewState": {
+                  "x": 167.39676483089914,
+                  "y": -575.0865558873348,
+                  "zoom": -0.9547298669919828
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 25"
+            }
+          },
+          {
+            "id": "ab6ea7f324836c78",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Faunel.md",
+                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Characters/Parvaz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faunel"
+              "title": "Parvaz"
             }
           },
           {
-            "id": "233e0897ac8e60da",
+            "id": "f1fd1aa913b5e237",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dingies and Drag Queens/Dungeons of Drakkenheim/Dungeons of Drakkenheim - App. E The World of Drakkenheim.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dungeons of Drakkenheim - App. E The World of Drakkenheim"
+            }
+          },
+          {
+            "id": "3453c667b93e3709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Sylvania.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sylvania"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mimir",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +221,28 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5731fdc4dad80366",
+  "active": "f1fd1aa913b5e237",
   "lastOpenFiles": [
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Outlands/The Outlands.md",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/181-14-003.gun.webp",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/180-14-002.map.webp",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/179-14-001.sharpen.webp",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments",
+    "Turn of Fortunes Wheel/Images/180-14-002.map.webp",
+    "Turn of Fortunes Wheel/Images/179-14-001.sharpen.webp",
+    "Turn of Fortunes Wheel/Images",
+    "Turn of Fortunes Wheel",
+    "index.md",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/Dungeons of Drakkenheim - App. E The World of Drakkenheim.md",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim",
+    "Dingies and Drag Queens/Vecna Eve of Ruin/Private/Character Sheet Notes.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Faunel.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 26.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Characters/Parvaz.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 25.canvas",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Sylvania.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 24.canvas",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Faunel.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Outlands/The Outlands.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Outlands/The Walking Castle.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Dream Sequences/Bawk's Weapon Dream.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Dream Sequences/Grim and Flint Dream.md",
@@ -205,39 +259,20 @@
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Sigil/Morte.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Sigil/Enoll Eva.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Sigil/Felicity.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Sigil/Riaen Blackhome.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Sigil/Winter's Bite.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Sigil/The Lady of Pain.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Player Characters/Thistle.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Felik.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/The Outlands/Faunel/Iris.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/The Outlands/Faunel",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Dream Sequences/index.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Companions/Sal the Slaad.md",
     "Private",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 25.canvas",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Images/Lolth2e.webp",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Images/Doomguard Doom Lord.webp",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Images/monodrone.jpg",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Images/Efreeti.webp",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/The Plot and Edits.canvas",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 24.canvas",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Faction Members/Heralds of Dust",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Player Characters/Guest Stars",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Faction Members/Bleak Cabal",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Sigil/Factions/Lesser Factions",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Faction Members/Doomguard",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/The Outlands/Tradegate",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/The Outlands/Excelsior",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/The Outlands/Automata",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 24.canvas",
     "Uni/Private/Final Year/Major Project/Research/Concept Art.canvas",
     "Uni/Private/Portfolio Website/Other Pics/Grapple Safe Area.png",
     "Uni/Private/Portfolio Website/Other Pics/First Test.png",
-    "Uni/Private/Portfolio Website/Enviro Design Collage/Compressed/SwampRuins.png",
-    "Uni/Private/Portfolio Website/Enviro Design Collage/Compressed/NaturesRestAlt.png",
-    "Uni/Private/Portfolio Website/Enviro Design Collage/Compressed/NaturesRest.png",
-    "Uni/Private/Portfolio Website/Enviro Design Collage/Compressed/DrownedInSand.png",
     "Uni/Private/Final Year/Major Project/Research/UI Inspo.canvas",
     "Uni/Private/Final Year/Major Project/Research/UI Designs.canvas",
     "Uni/Private/Final Year/Major Project/Ideas.canvas",
