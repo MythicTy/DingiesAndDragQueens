@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dingies and Drag Queens/Dungeons of Drakkenheim/Dungeons of Drakkenheim - App. E The World of Drakkenheim.md",
+                "file": "Dingies and Drag Queens/Dungeons of Drakkenheim/The World of Drakkenheim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeons of Drakkenheim - App. E The World of Drakkenheim"
+              "title": "The World of Drakkenheim"
             }
           },
           {
@@ -221,8 +221,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f1fd1aa913b5e237",
+  "active": "2555171eabe0d0b5",
   "lastOpenFiles": [
+    "index.md",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/The World of Drakkenheim.md",
     "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/181-14-003.gun.webp",
     "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/180-14-002.map.webp",
     "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/179-14-001.sharpen.webp",
@@ -231,8 +233,6 @@
     "Turn of Fortunes Wheel/Images/179-14-001.sharpen.webp",
     "Turn of Fortunes Wheel/Images",
     "Turn of Fortunes Wheel",
-    "index.md",
-    "Dingies and Drag Queens/Dungeons of Drakkenheim/Dungeons of Drakkenheim - App. E The World of Drakkenheim.md",
     "Dingies and Drag Queens/Dungeons of Drakkenheim",
     "Dingies and Drag Queens/Vecna Eve of Ruin/Private/Character Sheet Notes.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Faunel.md",
@@ -272,7 +272,6 @@
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Sigil/Factions/Lesser Factions",
     "Uni/Private/Final Year/Major Project/Research/Concept Art.canvas",
     "Uni/Private/Portfolio Website/Other Pics/Grapple Safe Area.png",
-    "Uni/Private/Portfolio Website/Other Pics/First Test.png",
     "Uni/Private/Final Year/Major Project/Research/UI Inspo.canvas",
     "Uni/Private/Final Year/Major Project/Research/UI Designs.canvas",
     "Uni/Private/Final Year/Major Project/Ideas.canvas",
