@@ -13,30 +13,75 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni/Private/Final Year/Dissertation/Stylized Rendering Pipeline/Research.md",
+                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Sylvania.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research"
+              "title": "Sylvania"
             }
           },
           {
-            "id": "3397b609c4287385",
+            "id": "aa2b5ca96722d9f8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 28 - Next Session.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -280,
+                  "zoom": -0.0018227356068180156
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Session 28 - Next Session"
+            }
+          },
+          {
+            "id": "a290a0a863bb54e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Session Recaps/Session 27 - Who Knows.md",
+                "file": "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Session Recaps/Session 27 - 10th December.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 27 - Who Knows"
+              "title": "Session 27 - 10th December"
+            }
+          },
+          {
+            "id": "15a0fccad9fda536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Private/Final Year/Major Project/Dev Diary/Tom Playtest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tom Playtest"
+            }
+          },
+          {
+            "id": "249f16255d4fa976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni/Private/Final Year/Major Project/Dev Diary/Playtest Notes - 31-3-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Playtest Notes - 31-3-25"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372
+    "width": 294
   },
   "right": {
     "id": "4577cdf90bba30d7",
@@ -191,63 +236,62 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "3397b609c4287385",
+  "active": "a290a0a863bb54e6",
   "lastOpenFiles": [
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Session Recaps/Session 26 - Tuesday 12th November.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Session Recaps/Session 27 - Who Knows.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Sylvania.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Session Recaps/Session 27 - 10th December.md",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 28 - Next Session.canvas",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 27.canvas",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Session Recaps/Session 26 - Tuesday 12th November.md",
     "Uni/Private/Final Year/Major Project/Dev Diary/Dev Diary.md",
-    "Uni/Private/Final Year/Major Project/Dev Diary/Asset List.md",
-    "Uni/Private/Final Year/Major Project/Research/Tutorials.md",
-    "Uni/Private/Final Year/Major Project/Research/Attachments/Pasted image 20250222141958.png",
-    "Uni/Private/Final Year/Major Project/Research/Attachments/Pasted image 20250222141946.png",
-    "Private/Notes for other vault.md",
-    "Private/Melania Attempts.md",
-    "Uni/Private/Final Year/Major Project/Dev Diary/Playtest Notes - Christmas.md",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409152135.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409152124.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409145720.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409145704.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409145640.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409145614.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409145530.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250409145517.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250408193307.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments/Pasted image 20250408193250.png",
+    "Uni/Private/Final Year/Major Project/Dev Diary/Tom Playtest.md",
+    "Uni/Private/Final Year/Major Project/Dev Diary/Playtest Notes - 31-3-25.md",
     "Uni/Private/Final Year/Major Project/Dev Diary/To Do List.md",
-    "Uni/Private/Final Year/Dissertation/Stylized Rendering Pipeline/Citations.md",
-    "Uni/Private/Final Year/Dissertation/Stylized Rendering Pipeline/Dev Diary.md",
-    "Uni/Private/Final Year/Dissertation/Stylized Rendering Pipeline/Notes.md",
-    "Uni/Private/Final Year/Dissertation/Stylized Rendering Pipeline/Research.md",
-    "Uni/Private/Final Year/Groblins/Slides to re record.md",
-    "Uni/Private/Final Year/Groblins/Changes Made in Response to Feedback.md",
-    "Uni/Private/Final Year/Dissertation/Stylized Rendering Pipeline/Slides To Re Record.md",
-    "Uni/Private/Final Year/Major Project/Dev Diary/Playtest Notes.md",
-    "Uni/Private/Final Year/Groblins/Notes.md",
+    "Uni/Private/Final Year/Major Project/Dev Diary/Playtest notes - 24-3-25.md",
+    "Uni/Private/Final Year/Major Project/Dev Diary/Asset List.md",
+    "Uni/Private/Final Year/Major Project/Dev Diary/Playtest Notes - Christmas.md",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/Private/Dungeon Ideas.md",
+    "Dingies and Drag Queens/Dungeons of Drakkenheim/Private",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 25.canvas",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 24.canvas",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 23.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Outlands/Gatetowns/Automata.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Sigil/Enoll Eva.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/World/Sigil/The Wards/The Market Ward.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Companions/Sal the Slaad.md",
+    "Dingies and Drag Queens/Turn of Fortunes Wheel/Public/Characters/Companions/Barry the Capybara.md",
+    "Dingies and Drag Queens/Vecna Eve of Ruin/Private/Character Sheet Notes.md",
+    "Dingies and Drag Queens/Vecna Eve of Ruin/Private/Next Session Notes.md",
+    "Dingies and Drag Queens/Vecna Eve of Ruin/Private/Links.md",
+    "Dingies and Drag Queens/Vecna Eve of Ruin/Private/Beliefs.md",
+    "Dingies and Drag Queens/Vecna Eve of Ruin/Private/Backstory.md",
+    "Uni/Private/tech.md",
+    "Uni/Private/Final Year/Major Project/Dev Diary/Metrics.md",
+    "Uni/Private/Final Year/Major Project/Dev Diary/attachments",
     "Uni/Private/Final Year/Dissertation/Stylized Rendering Pipeline",
     "Uni/Private/Final Year/Dissertation/Games As Art/Research/Attachments/pkpadmin,+4-Parker+-+Art+worlds+for+art+games_edited.pdf",
-    "Uni/Private/Final Year/Dissertation/Games As Art/Research/Links.md",
     "Uni/Private/Final Year/Dissertation/Games As Art/Ideas.canvas",
-    "Uni/Private/Final Year/Dissertation/Games As Art/Survey Draft.md",
-    "Uni/Private/Final Year/Dissertation/Games As Art/Research/Topics.md",
     "Uni/Private/Final Year/Dissertation/Games As Art/Research/Attachments",
     "Uni/Private/Final Year/Dissertation/Games As Art/Research",
     "Uni/Private/Final Year/Dissertation/Games As Art",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 26.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Sylvania.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/The Nursery.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Glorium.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Faunel.md",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 27.canvas",
     "Private",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 24.canvas",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/Session Prep/Session 25.canvas",
-    "Turn of Fortunes Wheel/Images/180-14-002.map.webp",
-    "Turn of Fortunes Wheel/Images/179-14-001.sharpen.webp",
-    "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/181-14-003.gun.webp",
-    "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/180-14-002.map.webp",
-    "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments/179-14-001.sharpen.webp",
     "Dingies and Drag Queens/Dungeons of Drakkenheim/attachments",
     "Turn of Fortunes Wheel/Images",
-    "Turn of Fortunes Wheel",
-    "Dingies and Drag Queens/Dungeons of Drakkenheim",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Images/Lolth2e.webp",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Images/Doomguard Doom Lord.webp",
-    "Dingies and Drag Queens/Turn of Fortunes Wheel/Images/monodrone.jpg",
     "Dingies and Drag Queens/Turn of Fortunes Wheel/Private/The Plot and Edits.canvas",
     "Uni/Private/Final Year/Major Project/Research/Concept Art.canvas",
     "Uni/Private/Final Year/Major Project/Research/UI Inspo.canvas",
-    "Uni/Private/Final Year/Major Project/Research/UI Designs.canvas",
-    "Uni/Private/Final Year/Major Project/Ideas.canvas"
+    "Uni/Private/Final Year/Major Project/Research/UI Designs.canvas"
   ]
 }
